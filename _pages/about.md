@@ -86,8 +86,15 @@ I have published more than 20 papers at top journals and international conferenc
 - L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "Sensing-aided communication channel estimation with tensor-based moving target localization," IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, Submitted.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- ISAP 2020 Best paper award
+- ICAUS 2022 Best paper award
+- ICASSP 2023 Top 3% of all accepted papers
+-《Journal of Radars》 2019 Highly cited paper
+- Chu Kochen Scholarship (12 graduate students at Zhejiang University each year)
+- Scholarship for ISEE Excellent Students
+- Graduate of Merit, Award of Honor for Graduate
+- Supported by the China Scholarship Council for joint training at Aalto university
 
 # 📖 Educations
 - *2019.09 - now*, **Ph.D. student**, College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China
