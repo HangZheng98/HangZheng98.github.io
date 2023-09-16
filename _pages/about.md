@@ -27,20 +27,15 @@ I have published more than 20 papers at top journals and international conferenc
 
 # 📝 Publications 
 
-**H. Zheng**, C. Zhou, Z. Shi, Y. Gu, and Y. D. Zhang, "[Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271)," IEEE Trans. Signal Process., vol. 71, pp. 1128-1142, 2023. 
+**Journal papers**
 
-**H. Zheng**, Z. Shi, C. Zhou, and A. L. F. de Almeida, "[Coarray tensor completion for DOA estimation](https://ieeexplore.ieee.org/document/10087326)," IEEE Trans. Aerosp. Electron. Syst., Mar. 2023. 
+-**H. Zheng**, C. Zhou, Z. Shi, Y. Gu, and Y. D. Zhang, "[Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271)," IEEE Trans. Signal Process., vol. 71, pp. 1128-1142, 2023. 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+-**H. Zheng**, C. Zhou, Z. Shi, and G. Liao, "[Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921)," IEEE Trans. Signal Process., 2023.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+-**H. Zheng**, Z. Shi, C. Zhou, and A. L. F. de Almeida, "[Coarray tensor completion for DOA estimation](https://ieeexplore.ieee.org/document/10087326)," IEEE Trans. Aerosp. Electron. Syst., Mar. 2023. 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
