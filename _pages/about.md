@@ -27,7 +27,7 @@ I have published more than 20 papers at top journals and international conferenc
 
 # 📝 Publications 
 
-**Journal papers**
+## **Journal papers**
 
 - **H. Zheng**, C. Zhou, Z. Shi, Y. Gu, and Y. D. Zhang, "[Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271)," IEEE Trans. Signal Process., vol. 71, pp. 1128-1142, 2023. 
 
@@ -55,7 +55,7 @@ I have published more than 20 papers at top journals and international conferenc
 
 -  F. Xu, **H. Zheng**, and S. A. Vorobyov, "Tensor-based 2D DOA estimation for L-shaped nested array," IEEE Trans. Aerosp. Electron. Syst., Major revision.
 
-**Conference papers**
+## **Conference papers**
 
 - **H. Zheng**, C. Zhou, Y. Gu, and Z. Shi, "Two-dimensional DOA estimation for coprime planar array: A coarray tensor-based solution," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Barcelona, Spain, May 2020, pp. 4562-4566.
 
