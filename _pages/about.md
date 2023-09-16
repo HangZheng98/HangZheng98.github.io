@@ -59,7 +59,7 @@ I have published more than 20 papers at top journals and international conferenc
 
 - **H. Zheng**, C. Zhou, Y. Gu, and Z. Shi, "Two-dimensional DOA estimation for coprime planar array: A coarray tensor-based solution," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Barcelona, Spain, May 2020, pp. 4562-4566.
 
-- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "2-D DOA estimation for coprime cubic array: A cross-correlation tensor perspective," in Proc. Int. Symp. Antennas & Propag. (ISAP), Osaka, Japan, Jan. 2021, pp. 447-448. <div style="color:#F00">(Best Paper Award)</div> 
+- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "2-D DOA estimation for coprime cubic array: A cross-correlation tensor perspective," in Proc. Int. Symp. Antennas & Propag. (ISAP), Osaka, Japan, Jan. 2021, pp. 447-448. <font color=red>(Best Paper Award)</font>
 
 -  **H. Zheng**, C. Zhou, Y. Wang, J. Zhou, and Z. Shi, "Sample fourth-order cumulant tensor denoising for DOA estimation with coprime L-shaped array," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2021, pp. 1668-1672.
 
@@ -67,13 +67,13 @@ I have published more than 20 papers at top journals and international conferenc
 
 -  **H. Zheng**, C. Zhou, A. L. F. de Almeida, Y. Gu, and Z. Shi, "DOA estimation via coarray tensor completion with missing slices," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Singapore, May 2022, pp. 5053-5057.
 
--  **H. Zheng**, C. Zhou, S. A. Vorobyov, and Z. Shi, "Tensorized neural layer decomposition for 2-D DOA estimation," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Rhodes Island, Greece, June 2023. <div style="color:#F00">(Best Paper Award)</div>
+-  **H. Zheng**, C. Zhou, S. A. Vorobyov, and Z. Shi, "Tensorized neural layer decomposition for 2-D DOA estimation," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Rhodes Island, Greece, June 2023. <font color=red>(Top 3% paper of all accepted papers)</font>
 
 - **郑航**, 周成伟, 王勇, 史治国, "面向电磁矢量互质面阵的张量波束成形", 第十五届全国雷达学术年会, 广州, 中国, 2020 年 12 月, pp. 285-293.
 
 - Y. Wang, **H. Zheng**, C. Zhou, C. Yan, and Z. Shi, "Joint DOD and DOA estimation via coupled CPD with sparse MIMO radar for IIoT," in Proc. CIE Int. Conf. Radar, Haikou, China, Dec. 2021, pp. 1566-1570.
 
-- F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "Fiber-missing tensor completion for DOA estimation with sensor failure," in Proc. Int. Conf. Autonomous Unmanned Systems, Xian, China, Sep. 2022, pp. 3457-3466. (Best Paper Award)
+- F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "Fiber-missing tensor completion for DOA estimation with sensor failure," in Proc. Int. Conf. Autonomous Unmanned Systems, Xian, China, Sep. 2022, pp. 3457-3466. <font color=red>(Best Paper Award)</font>
 
 - L. Lin, Z. Zhang, **H. Zheng**, C. Zhou, and Z. Shi, "DOA estimation for joint sensing and communication with nonorthogonal waveform," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2022, pp. 298-302.
 
