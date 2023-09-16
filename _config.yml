@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hang Zheng"
-description              : "About Me"
+description              : "Array signal processing/tensor signal processing/AI for signal processing"
 repository               : "RayeRen/HangZheng98.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hang Zheng (郑航)"
   avatar           : "images/protrait.png"
-  bio              : "Array signal processing/tensor signal processing/AI for signal processing"
+  bio              : "Ph.D. candidate"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=s7AazQUAAAAJ&hl=zh-CN"
   email            : "hangzheng@zju.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Hang-Zheng-13"
   uri              :
   bitbucket        :
   codepen          :
