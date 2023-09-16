@@ -90,7 +90,7 @@ I have published more than 20 papers at top journals and international conferenc
 - ISAP 2020 Best paper award
 - ICAUS 2022 Best paper award
 - ICASSP 2023 Top 3% of all accepted papers
--《Journal of Radars》 2019 Highly cited paper
+- 《Journal of Radars》 2019 Highly cited paper
 - Chu Kochen Scholarship (12 graduate students at Zhejiang University each year)
 - Scholarship for ISEE Excellent Students
 - Graduate of Merit, Award of Honor for Graduate
@@ -102,3 +102,4 @@ I have published more than 20 papers at top journals and international conferenc
 - *2015.09 - 2019.07*, **Bachelor**, College of Transportation Engineering, Tongji University, Shanghai, China
 
 # 💬 Research Highlights
+
