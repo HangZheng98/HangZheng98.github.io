@@ -25,7 +25,7 @@ My research interest includes array signal processing, tensor signal processing,
 I have published more than 20 papers at top journals and international conferences with google citations <a href='https://scholar.google.com/citations?user=s7AazQUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉 Our paper [Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10095288) is recognized as the <font color=red>Top 3% paper of all accepted papers</font> at ICASSP 2023.
+- *2023.06*: &nbsp;🎉 Our paper [Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10095288) is recognized as the <font color=red>[Top 3% paper of all accepted papers](https://maifile.cn/est/a2816949397768/pdf)</font> at ICASSP 2023.
 
   
 # 📝 Publications 
