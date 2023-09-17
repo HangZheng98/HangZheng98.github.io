@@ -107,7 +107,7 @@ I have published more than 20 papers at top journals and international conferenc
 - ICAUS 2022 Best paper award
 - [ISAP 2020 Best paper award](https://maifile.cn/est/a3156949401013/pdf)
 - 《Journal of Radars》2019 Highly cited paper
-- Chu Kochen Scholarship (12 graduate students at Zhejiang University each year)
+- [Chu Kochen Scholarship](https://maifile.cn/est/a2666949403508/pdf) (12 graduate students at Zhejiang University each year)
 - Scholarship for ISEE Excellent Students
 - Graduate of Merit, Award of Honor for Graduate
 - Supported by the China Scholarship Council for joint training at Aalto university
