@@ -132,15 +132,16 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - Optimize the uniqueness condition of co-array tensor decomposition, and identify multiple sources that exceed the number of physical array sensors
 - Complete the coarray tensor with missing slices to exploit the full co-array information
 
-Analytical results and numerical results are presented in our papers published on IEEE TSP, IEEE TAES, and IEEE ICASSP.
+Analytical and numerical results are presented in our papers published on IEEE TSP, IEEE TAES, and IEEE ICASSP.
 </div>
 </div>
 
 ## Sub-Nyquist tensor beamforming
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DOA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Beamforming.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Develop the principle of tensor signal filtering with sparse array, thereby enhancing the signal-of-interest with reduced system burden
 - Enhance mainlobe while suppress sidelobes in the beampattern by solving tensor beamformer weight optimization problems
 - Improve output signal-to-interference-plus-noise ratio (SINR) for *<font color=blue>strong anti-interference</font>*
 
+The algorithm for beamforming design and results are presented in our papers published on IEEE TSP, and Radarconf.
