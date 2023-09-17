@@ -108,15 +108,21 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - 史治国, 陈剑锋, 单国锋, **郑航**. 一种自动探测测向无人机的方法, ZL 202010786192.9, 2023-07-07. [Chinese patent]
 
 # 🎖 Honors and Awards
-- [ICASSP 2023 Top 3% of all accepted papers](https://maifile.cn/est/a2816949397768/pdf)
-- [ICAUS 2022 Best paper award](https://maifile.cn/est/a3176949404664/pdf)
-- [ISAP 2020 Best paper award](https://maifile.cn/est/a3156949401013/pdf)
-- [《Journal of Radars》2019 Highly cited paper](https://maifile.cn/est/a2586949405559/pdf)
-- [Chu Kochen Scholarship](https://maifile.cn/est/a2666949403508/pdf) (12 graduate students at Zhejiang University each year)
-- Scholarship for ISEE Excellent Students
+- *2023.06* [ICASSP 2023 Top 3% of all accepted papers](https://maifile.cn/est/a2816949397768/pdf)
+- *2022.09* [ICAUS 2022 Best paper award](https://maifile.cn/est/a3176949404664/pdf)
+- *2020.12* [ISAP 2020 Best paper award](https://maifile.cn/est/a3156949401013/pdf)
+- *2022.12* [《Journal of Radars》2019 Highly cited paper](https://maifile.cn/est/a2586949405559/pdf) /《雷达学报》2019年度高被引论文
+- *2021.12* [Chu Kochen Scholarship](https://maifile.cn/est/a2666949403508/pdf) (12 graduate students at Zhejiang University each year) / 竺可桢奖学金 (浙江大学研究生最高层次荣誉)
+- *2021.12* Scholarship for ISEE Excellent Students
+- *2023.05* *2021.06* 2次获华为菁英奖学金
 - Graduate of Merit, Award of Honor for Graduate
-- Supported by the China Scholarship Council for joint training at Aalto university
-- 2次获华为菁英奖学金
+- Supported by the China Scholarship Council (CSC) for joint training at Aalto university
+- 全国数学建模竞赛上海市一等奖, 全国二等奖
+- "创青春"上海市大学生创业大赛创业计划类金奖
+- "挑战杯"全国大学生创业大赛银奖
+- "互联网+"大学生创新创业大赛上海市铜奖
+- 壳牌汽车节能马拉松竞赛国际第二名, 最佳设计奖 (同济大学志远车队电控组组长)
+
 
 # 📖 Educations
 - *2019.09 - now*, **Ph.D. student**, College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China
