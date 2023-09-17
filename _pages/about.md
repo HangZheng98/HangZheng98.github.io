@@ -130,5 +130,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - Derive the high-order co-array tensor from sub-Nyquist tensor signals, and achieve co-array tensor-based direction-of-arrival estimation with *high accuracy*, *super resolution* and *increased degrees-of-freedom*
 - Optimize the uniqueness condition of co-array tensor decomposition, and identify multiple sources that exceed the number of physical array sensors
 - Complete the coarray tensor with missing slices to exploit the full co-array information
+
+Analytical results and numerical results are presented in our papers published on IEEE TSP, IEEE TAES, and IEEE ICASSP.
 </div>
 </div>
