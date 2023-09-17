@@ -22,14 +22,15 @@ I am a fifth-year Ph.D. student in the College of Information Science & Electron
 
 My research interest includes array signal processing, tensor signal processing, and AI for signal processing. To overcome the challenge of large-scale high-dimensional array signal processing, I develop the theories of sub-Nyquist tensor processing, efficient tensor optimization, and resource-efficient tensorized neural networks. The proposed methods facilitate direction-of-arrival (DOA) estimation, adaptive beamforming, and channel estimation with low system costs and competitive performance, laying foundations for wireless communication, target localization, and anti-interference.
 
+
 I have published 20+ papers at top journals and international conferences with google citations <a href='https://scholar.google.com/citations?user=s7AazQUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Processing, and IET Signal processing.
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉 Our paper [Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921) is accepted to IEEE Transactions on Signal Processing
-- *2023.06*: &nbsp;🎉 Our paper [Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10095288) is recognized as the [<font color=red>Top 3% paper of all accepted papers</font>](https://maifile.cn/est/a2816949397768/pdf) at ICASSP 2023
-- *2023.03*: &nbsp;🎉 Our papers [Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271) and [Coarray tensor completion for DOA estimation](https://ieeexplore.ieee.org/document/10087326) are respectively accepted to IEEE Transactions on Signal Processing and IEEE Transactions on Aerospace and Electronic Systems
+- *2023.08*: &nbsp;🎉 Our paper [Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921) is accepted to *IEEE Transactions on Signal Processing*
+- *2023.06*: &nbsp;🎉 Our paper [Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10095288) is recognized as the [<font color=red>Top 3% paper of all accepted papers</font>](https://maifile.cn/est/a2816949397768/pdf) at *IEEE ICASSP 2023*
+- *2023.03*: &nbsp;🎉 Our papers [Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271) and [Coarray tensor completion for DOA estimation](https://ieeexplore.ieee.org/document/10087326) are respectively accepted to *IEEE Transactions on Signal Processing* and *IEEE Transactions on Aerospace and Electronic Systems*
 
   
 # 📝 Publications 
