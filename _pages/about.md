@@ -144,4 +144,13 @@ Analytical and numerical results are presented in our papers published on IEEE T
 - Enhance mainlobe while suppress sidelobes in the beampattern by solving tensor beamformer weight optimization problems
 - Improve output signal-to-interference-plus-noise ratio (SINR) for *<font color=blue>strong anti-interference</font>*
 
-The algorithm for beamforming design and results are presented in our papers published on IEEE TSP, and Radarconf.
+The algorithm for beamforming design and results are presented in our papers published on IEEE TSP and Radarconf.
+</div>
+</div>
+
+## Tensorized neural networks for signal processing
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Design tensorized neural networks to efficiently learn inherent features from multi-dimensional array signals, leading to *<font color=blue>robust performance in non-ideal situations</font>* such as low signal-to-noise ratio and limited snapshots
+- Highly compress the parameters in tensorized neural layers, and *<font color=blue>accelerate the training speed</font>* of the tensorized neural network
