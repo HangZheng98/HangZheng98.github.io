@@ -35,19 +35,19 @@ I have published more than 20 papers at top journals and international conferenc
 
 - **H. Zheng**, Z. Shi, C. Zhou, and A. L. F. de Almeida, "[Coarray tensor completion for DOA estimation](https://ieeexplore.ieee.org/document/10087326)," IEEE Trans. Aerosp. Electron. Syst., Mar. 2023. 
 
-- **H. Zheng**, C. Zhou, S. Vorobyov, Q. Wang, and Z. Shi, "Decomposed CNN for sub-Nyquist tensor-based 2-D DOA estimation," IEEE Signal Process. Lett., vol. 30, pp. 708-712, 2023.
+- **H. Zheng**, C. Zhou, S. Vorobyov, Q. Wang, and Z. Shi, "[Decomposed CNN for sub-Nyquist tensor-based 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10144637)," IEEE Signal Process. Lett., vol. 30, pp. 708-712, 2023.
 
-- **H. Zheng**, C. Zhou, Z. Shi, and A. L. F. de Almeida, "SubTTD: DOA estimation via sub-Nyquist tensor train decomposition," IEEE Signal Process. Lett., vol. 29, pp. 1978-1982, 2022.
+- **H. Zheng**, C. Zhou, Z. Shi, and A. L. F. de Almeida, "[SubTTD: DOA estimation via sub-Nyquist tensor train decomposition](https://ieeexplore.ieee.org/document/9872046)," IEEE Signal Process. Lett., vol. 29, pp. 1978-1982, 2022.
 
-- **H. Zheng**, C. Zhou, Z. Shi, and Y. Gu, "Structured tensor reconstruction for coherent DOA estimation," IEEE Signal Process. Lett., vol. 29, pp. 1634-1638, 2022.
+- **H. Zheng**, C. Zhou, Z. Shi, and Y. Gu, "[Structured tensor reconstruction for coherent DOA estimation](https://ieeexplore.ieee.org/abstract/document/9829909)," IEEE Signal Process. Lett., vol. 29, pp. 1634-1638, 2022.
 
-- **H. Zheng**, Z. Shi, C. Zhou, M. Haardt, and J. Chen, "Coupled coarray tensor CPD for DOA estimation with coprime L-shaped array," IEEE Signal Process. Lett., vol. 28, pp. 1545-1549, July 2021.
+- **H. Zheng**, Z. Shi, C. Zhou, M. Haardt, and J. Chen, "[Coupled coarray tensor CPD for DOA estimation with coprime L-shaped array](https://ieeexplore.ieee.org/document/9495264)," IEEE Signal Process. Lett., vol. 28, pp. 1545-1549, July 2021.
 
-- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "Tensor beamforming for EMVS coprime planar array," Journal of Signal Processing, Accepted. (in Chinese)
+- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "Tensor beamforming for EMVS coprime planar array," (EMVS互质面阵张量波束成形) Journal of Signal Processing (《信号处理》), Accepted. (in Chinese)
 
-- L. Lin, **H. Zheng**, C. Zhou, S. He, and Z. Shi, "Nonorthogonal waveform assisted DOA estimation for joint MIMO sensing and communication," EURASIP J. Adv. Signal Process., vol. 2023, no. 1, Art. no. 22, Feb. 2023.
+- L. Lin, **H. Zheng**, C. Zhou, S. He, and Z. Shi, "[Nonorthogonal waveform assisted DOA estimation for joint MIMO sensing and communication](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-023-00976-6)," EURASIP J. Adv. Signal Process., vol. 2023, no. 1, Art. no. 22, Feb. 2023.
 
-- C. Zhou, **H. Zheng**, Y. Gu, Y. Wang, and Z. Shi, "Research progress on coprime array signal processing: Direction-of-arrival estimation and adaptive beamforming," Journal of Radars, vol. 8, no. 5, pp. 558-577, Oct. 2019. (in Chinese)
+- C. Zhou, **H. Zheng**, Y. Gu, Y. Wang, and Z. Shi, "[Research progress on coprime array signal processing: Direction-of-arrival estimation and adaptive beamforming](https://radars.ac.cn/cn/article/doi/10.12000/JR19068)," (互质阵列信号处理研究进展：波达方向估计与自适应波束成形) Journal of Radars (《雷达学报》), vol. 8, no. 5, pp. 558-577, Oct. 2019. (in Chinese)
 
 -  B. Li, F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "Structural-missing tensor completion for robust DOA estimation with sensor failure," IET Signal Process., Minor revision. (*corresponding author)
 
