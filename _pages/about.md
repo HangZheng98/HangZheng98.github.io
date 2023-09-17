@@ -104,13 +104,14 @@ I have published more than 20 papers at top journals and international conferenc
 
 # 🎖 Honors and Awards
 - [ICASSP 2023 Top 3% of all accepted papers](https://maifile.cn/est/a2816949397768/pdf)
-- ICAUS 2022 Best paper award
+- [ICAUS 2022 Best paper award](https://maifile.cn/est/a3176949404664/pdf)
 - [ISAP 2020 Best paper award](https://maifile.cn/est/a3156949401013/pdf)
-- 《Journal of Radars》2019 Highly cited paper
+- [《Journal of Radars》2019 Highly cited paper](https://maifile.cn/est/a2586949405559/pdf)
 - [Chu Kochen Scholarship](https://maifile.cn/est/a2666949403508/pdf) (12 graduate students at Zhejiang University each year)
 - Scholarship for ISEE Excellent Students
 - Graduate of Merit, Award of Honor for Graduate
 - Supported by the China Scholarship Council for joint training at Aalto university
+- 2次获华为菁英奖学金
 
 # 📖 Educations
 - *2019.09 - now*, **Ph.D. student**, College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China
