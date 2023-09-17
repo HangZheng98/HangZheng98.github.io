@@ -57,19 +57,17 @@ I have published more than 20 papers at top journals and international conferenc
 
 ## **Conference papers**
 
-- **H. Zheng**, C. Zhou, Y. Gu, and Z. Shi, "Two-dimensional DOA estimation for coprime planar array: A coarray tensor-based solution," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Barcelona, Spain, May 2020, pp. 4562-4566.
-
-- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "2-D DOA estimation for coprime cubic array: A cross-correlation tensor perspective," in Proc. Int. Symp. Antennas & Propag. (ISAP), Osaka, Japan, Jan. 2021, pp. 447-448. <font color=red>(Best Paper Award)</font>
-
--  **H. Zheng**, C. Zhou, Y. Wang, J. Zhou, and Z. Shi, "Sample fourth-order cumulant tensor denoising for DOA estimation with coprime L-shaped array," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2021, pp. 1668-1672.
-
--  **H. Zheng**, C. Zhou, Z. Shi, and C. Yan, "Joint coprime weights optimization for sub-Nyquist tensor beamforming," in Proc. IEEE Radar Conf., New York, USA, Mar. 2022, pp. 1-6.
+-  **H. Zheng**, C. Zhou, S. A. Vorobyov, and Z. Shi, "Tensorized neural layer decomposition for 2-D DOA estimation," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Rhodes Island, Greece, June 2023. <font color=red>(Top 3% paper of all accepted papers)</font>
 
 -  **H. Zheng**, C. Zhou, A. L. F. de Almeida, Y. Gu, and Z. Shi, "DOA estimation via coarray tensor completion with missing slices," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Singapore, May 2022, pp. 5053-5057.
 
--  **H. Zheng**, C. Zhou, S. A. Vorobyov, and Z. Shi, "Tensorized neural layer decomposition for 2-D DOA estimation," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Rhodes Island, Greece, June 2023. <font color=red>(Top 3% paper of all accepted papers)</font>
+-  **H. Zheng**, C. Zhou, Z. Shi, and C. Yan, "Joint coprime weights optimization for sub-Nyquist tensor beamforming," in Proc. IEEE Radar Conf., New York, USA, Mar. 2022, pp. 1-6.
+  
+- **H. Zheng**, C. Zhou, Y. Gu, and Z. Shi, "Two-dimensional DOA estimation for coprime planar array: A coarray tensor-based solution," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Barcelona, Spain, May 2020, pp. 4562-4566.
 
-- **郑航**, 周成伟, 王勇, 史治国, "面向电磁矢量互质面阵的张量波束成形", 第十五届全国雷达学术年会, 广州, 中国, 2020 年 12 月, pp. 285-293.
+-  **H. Zheng**, C. Zhou, Y. Wang, J. Zhou, and Z. Shi, "Sample fourth-order cumulant tensor denoising for DOA estimation with coprime L-shaped array," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2021, pp. 1668-1672.
+
+- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "2-D DOA estimation for coprime cubic array: A cross-correlation tensor perspective," in Proc. Int. Symp. Antennas & Propag. (ISAP), Osaka, Japan, Jan. 2021, pp. 447-448. <font color=red>(Best Paper Award)</font>
 
 - Y. Wang, **H. Zheng**, C. Zhou, C. Yan, and Z. Shi, "Joint DOD and DOA estimation via coupled CPD with sparse MIMO radar for IIoT," in Proc. CIE Int. Conf. Radar, Haikou, China, Dec. 2021, pp. 1566-1570.
 
@@ -84,6 +82,9 @@ I have published more than 20 papers at top journals and international conferenc
 - F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "Tensorial Hankel reconstruction for coherent DOA estimation with sensor failure," IEEE Int. Conf. Commun. Technol. (ICCT), Wuxi, China, Oct. 2023, Accepted.
 
 - L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "Sensing-aided communication channel estimation with tensor-based moving target localization," IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, Submitted.
+
+- **郑航**, 周成伟, 王勇, 史治国, "面向电磁矢量互质面阵的张量波束成形", 第十五届全国雷达学术年会, 广州, 中国, 2020 年 12 月, pp. 285-293.
+
 
 # 📄 Patents
 - C. Zhou, **H. Zheng**, J. Chen, Z. Shi. High resolution, accurate, two-dimensional direction-of-arrival estimation method based on coarray tensor spatial spectrum searching with coprime planar array, US 11300648, 2022-04-12. [American patent]
