@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year Ph.D. student in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. During Oct. 2022 ~ Oct. 2023, I am a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
+I am a fifth-year Ph.D. student in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I am a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
 
 
-My research interest includes *array signal processing*, *tensor signal processing*, and *AI for signal processing*. To overcome the challenge of large-scale high-dimensional array signal processing, I develop the theories of sub-Nyquist tensor processing, efficient tensor optimization, and resource-efficient tensorized neural networks. The proposed methods facilitate direction-of-arrival (DOA) estimation, adaptive beamforming, and channel estimation with low system costs and competitive performance, laying foundations for wireless communication, target localization, and anti-interference.
+My research interest includes *array signal processing*, *tensor signal processing*, and *AI for signal processing*. To overcome the challenge of large-scale high-dimensional array signal processing, I develop the theories of sub-Nyquist tensor processing, efficient tensor optimization, and resource-efficient tensorized neural networks. The proposed methods facilitate direction-of-arrival (DOA) estimation, adaptive beamforming, and channel estimation with low system costs and competitive performance, laying the foundations for wireless communication, target localization, and anti-interference.
 
 
 I have published 20+ papers at top journals and international conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -116,7 +116,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - *2021.12*: Scholarship for ISEE Excellent Students
 - *2023.05*, *2021.06*: 2次获华为菁英奖学金
 - Graduate of Merit, Award of Honor for Graduate
-- Supported by the China Scholarship Council (CSC) for joint training at Aalto university
+- Supported by the China Scholarship Council (CSC) for joint training at Aalto University
 - 全国数学建模竞赛上海市一等奖, 全国二等奖
 - "创青春"上海市大学生创业大赛创业计划类金奖
 - "挑战杯"全国大学生创业大赛银奖
@@ -148,7 +148,7 @@ Analytical and numerical results are presented in our papers published on IEEE T
 <div class='paper-box-text' markdown="1">
 
 - Develop the principle of tensor signal filtering with sparse array, thereby enhancing the signal-of-interest with reduced system burden
-- Enhance mainlobe while suppress sidelobes in the beampattern by solving tensor beamformer weight optimization problems
+- Enhance mainlobe while suppressing sidelobes in the beampattern by solving tensor beamformer weight optimization problems
 - Improve output signal-to-interference-plus-noise ratio (SINR) for *<font color=blue>strong anti-interference</font>*
 
 The algorithm for beamforming design and results are presented in our papers published on IEEE TSP and Radarconf.
