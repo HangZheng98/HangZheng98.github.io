@@ -52,7 +52,7 @@ I have published more than 20 papers at top journals and international conferenc
 
 - C. Zhou, **H. Zheng**, Y. Gu, Y. Wang, and Z. Shi, "[Research progress on coprime array signal processing: Direction-of-arrival estimation and adaptive beamforming](https://radars.ac.cn/cn/article/doi/10.12000/JR19068)," (互质阵列信号处理研究进展：波达方向估计与自适应波束成形) Journal of Radars (《雷达学报》), vol. 8, no. 5, pp. 558-577, Oct. 2019. (in Chinese)
 
--  B. Li, F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "Structural-missing tensor completion for robust DOA estimation with sensor failure," IET Signal Process., Minor revision. (*corresponding author)
+-  B. Li, F. Cheng, **H. Zheng***, Z. Shi, and C. Zhou, "Structural-missing tensor completion for robust DOA estimation with sensor failure," IET Signal Process., Minor revision. (*corresponding author)
 
 -  **H. Zheng**, Z. Shi, C. Zhou, S. A. Vorobyov, and Y. Gu, "Deep tensor 2-D DOA estimation for URA," IEEE Trans. Signal Process., Under review.
 
