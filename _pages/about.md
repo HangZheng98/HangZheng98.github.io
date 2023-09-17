@@ -152,5 +152,7 @@ The algorithm for beamforming design and results are presented in our papers pub
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Design tensorized neural networks to efficiently learn inherent features from multi-dimensional array signals, leading to *<font color=blue>robust performance in non-ideal situations</font>* such as low signal-to-noise ratio and limited snapshots
+- Design tensorized neural networks to efficiently learn inherent features from multi-dimensional array signals, leading to *<font color=blue>robust performance in non-ideal situations</font>* such as low signal-to-noise (SNR) ratio and limited snapshots
 - Highly compress the parameters in tensorized neural layers, and *<font color=blue>accelerate the training speed</font>* of the tensorized neural network
+
+This work was presented at IEEE ICASSP 2023, and recognized as the Top 3% paper. The extended paper is submitted to IEEE TSP.
