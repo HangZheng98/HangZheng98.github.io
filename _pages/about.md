@@ -124,6 +124,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 # 💬 Research Highlights
 
+## Sub-Nyquist tensor DOA estimation
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DOA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
