@@ -20,7 +20,7 @@ redirect_from:
 I am a fifth-year Ph.D. student in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I am a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
 
 
-My research interest includes *array signal processing*, *tensor signal processing*, and *AI for signal processing*. To overcome the challenge of large-scale high-dimensional array signal processing, I develop the theories of sub-Nyquist tensor processing, efficient tensor optimization, and resource-efficient tensorized neural networks. The proposed methods facilitate direction-of-arrival (DOA) estimation, adaptive beamforming, and channel estimation with low system costs and competitive performance, laying the foundations for wireless communication, target localization, and anti-interference.
+My research interest includes *array signal processing*, *tensor signal processing*, and *AI for signal processing*. To effectively process large-scale high-dimensional array signals in future communication and sensing systems, I developed the theories of sub-Nyquist tensor processing, efficient tensor optimization, and resource-efficient tensorized neural networks. The proposed methods facilitate direction-of-arrival (DOA) estimation, adaptive beamforming, and channel estimation with low system costs and competitive performance, laying the foundations for wireless communication, target localization, and anti-interference.
 
 
 I have published 20+ papers at top journals and international conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -106,6 +106,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - **郑航**, 史治国, 陈积明, 颜成钢, 周成伟, 周金芳. 基于最小化准则的电磁矢量互质面阵张量功率谱估计方法, ZL 202011499625.9, 2023-06-27. [Chinese patent]
 - 史治国, **郑航**, 陈积明, 颜成钢, 周成伟, 王勇. 基于乘性张量波束扫描的电磁矢量互质面阵多维参数估计方法, ZL 202011490509.0, 2023-06-27. [Chinese patent]
 - 史治国, 陈剑锋, 单国锋, **郑航**. 一种自动探测测向无人机的方法, ZL 202010786192.9, 2023-07-07. [Chinese patent]
+- 史治国, **郑航**, 周成伟, 陈积明, 王勇. 相互相関テンソルに基づく三次元の互いに素のキュービックアレイの到来方向推定方法, JP 7327840, 2023-08-07. [Japanese patent]
 
 # 🎖 Honors and Awards
 - *2023.06*: [ICASSP 2023 Top 3% of all accepted papers](https://maifile.cn/est/a2816949397768/pdf)
