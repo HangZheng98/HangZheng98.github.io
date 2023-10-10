@@ -51,7 +51,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - **H. Zheng**, Z. Shi, C. Zhou, M. Haardt, and J. Chen, "[Coupled coarray tensor CPD for DOA estimation with coprime L-shaped array](https://ieeexplore.ieee.org/document/9495264)," IEEE Signal Process. Lett., vol. 28, pp. 1545-1549, July 2021.
 
-- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "Tensor beamforming for EMVS coprime planar array," (EMVS互质面阵张量波束成形) Journal of Signal Processing (《信号处理》), Accepted. (in Chinese)
+- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "[Tensor beamforming for EMVS coprime planar array](https://kns.cnki.net/kcms2/article/abstract?v=18Spvz_s8rEj5ENd1JTL7jsgtrGVKFL1AImYgBDeTn23Vn479TU3qr0KoB1eTG3i5e9jlke9Yo_kxHaWEn92g21LL9zxJpT-T2XX9f_QWZ7q6quTRHRx0nLitKPpec9S7qQ5kGhSQ3Q=&uniplatform=NZKPT&language=CHS)," (EMVS互质面阵张量波束成形) Journal of Signal Processing (《信号处理》), 2023. (in Chinese)
 
 - L. Lin, **H. Zheng**, C. Zhou, S. He, and Z. Shi, "[Nonorthogonal waveform assisted DOA estimation for joint MIMO sensing and communication](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-023-00976-6)," EURASIP J. Adv. Signal Process., vol. 2023, no. 1, Art. no. 22, Feb. 2023.
 
