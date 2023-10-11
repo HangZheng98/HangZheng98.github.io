@@ -41,7 +41,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - **H. Zheng**, C. Zhou, Z. Shi, and G. Liao, "[Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921)," IEEE Trans. Signal Process., 2023.
 
-- **H. Zheng**, Z. Shi, C. Zhou, and A. L. F. de Almeida, "[Coarray tensor completion for DOA estimation](https://ieeexplore.ieee.org/document/10087326)," IEEE Trans. Aerosp. Electron. Syst., Mar. 2023. 
+- **H. Zheng**, Z. Shi, C. Zhou, and A. L. F. de Almeida, "[Coarray tensor completion for DOA estimation](https://ieeexplore.ieee.org/document/10087326)," IEEE Trans. Aerosp. Electron. Syst., vol. 59, no. 5, pp. 5472-5486, Oct. 2023. 
 
 - **H. Zheng**, C. Zhou, S. Vorobyov, Q. Wang, and Z. Shi, "[Decomposed CNN for sub-Nyquist tensor-based 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10144637)," IEEE Signal Process. Lett., vol. 30, pp. 708-712, 2023.
 
