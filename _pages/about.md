@@ -53,17 +53,15 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "[Tensor beamforming for EMVS coprime planar array](https://kns.cnki.net/kcms2/article/abstract?v=18Spvz_s8rEj5ENd1JTL7jsgtrGVKFL1AImYgBDeTn23Vn479TU3qr0KoB1eTG3i5e9jlke9Yo_kxHaWEn92g21LL9zxJpT-T2XX9f_QWZ7q6quTRHRx0nLitKPpec9S7qQ5kGhSQ3Q=&uniplatform=NZKPT&language=CHS)," (EMVS互质面阵张量波束成形) Journal of Signal Processing (《信号处理》), 2023. (in Chinese)
 
+-  F. Xu, **H. Zheng**, and S. A. Vorobyov, "Tensor-based 2D DOA estimation for L-shaped nested array," IEEE Trans. Aerosp. Electron. Syst., 2023.
+
 - L. Lin, **H. Zheng**, C. Zhou, S. He, and Z. Shi, "[Nonorthogonal waveform assisted DOA estimation for joint MIMO sensing and communication](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-023-00976-6)," EURASIP J. Adv. Signal Process., vol. 2023, no. 1, Art. no. 22, Feb. 2023.
 
 - C. Zhou, **H. Zheng**, Y. Gu, Y. Wang, and Z. Shi, "[Research progress on coprime array signal processing: Direction-of-arrival estimation and adaptive beamforming](https://radars.ac.cn/cn/article/doi/10.12000/JR19068)," (互质阵列信号处理研究进展：波达方向估计与自适应波束成形) Journal of Radars (《雷达学报》), vol. 8, no. 5, pp. 558-577, Oct. 2019. (in Chinese)
 
--  F. Xu, **H. Zheng**, and S. A. Vorobyov, "Tensor-based 2D DOA estimation for L-shaped nested array," IEEE Trans. Aerosp. Electron. Syst., 2023.
-
 -  B. Li, F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "Structural-missing tensor completion for robust DOA estimation with sensor failure," IET Signal Process., Minor revision. (corresponding author)
 
--  **H. Zheng**, Z. Shi, C. Zhou, S. A. Vorobyov, and Y. Gu, "Deep tensor 2-D DOA estimation for URA," IEEE Trans. Signal Process., Under review.
-
-
+-  **H. Zheng**, Z. Shi, C. Zhou, S. A. Vorobyov, and Y. Gu, "Deep tensor 2-D DOA estimation for URA," IEEE Trans. Signal Process., Under review.  
 
 ## **Conference papers**
 
