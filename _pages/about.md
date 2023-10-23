@@ -109,6 +109,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - 史治国, **郑航**, 周成伟, 陈积明, 王勇. 相互相関テンソルに基づく三次元の互いに素のキュービックアレイの到来方向推定方法, JP 7327840, 2023-08-07. [Japanese patent]
 
 # 🎖 Honors and Awards
+- *2023.10*: 2023年“信息与通信工程学科”全国博士生论坛优秀口头报告
 - *2023.10*：National Scholarship for Graduate Excellence / 研究生国家奖学金 
 - *2023.08*: 第八届中国科协优秀科技论文 
 - *2023.06*: [ICASSP 2023 Top 3% of all accepted papers](https://maifile.cn/est/a2816949397768/pdf)
