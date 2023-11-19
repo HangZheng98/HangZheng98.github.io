@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year Ph.D. student in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I am a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
+I am a fifth-year Ph.D. student in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I was a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
 
 
 My research interest includes *array signal processing*, *tensor signal processing*, and *AI for signal processing*. To effectively process large-scale high-dimensional array signals in future communication and sensing systems, I developed the theories of <font color=blue>sub-Nyquist tensor processing</font>, <font color=blue>efficient tensor optimization</font>, and <font color=blue>resource-efficient tensorized neural networks</font>. The proposed methods facilitate direction-of-arrival (DOA) estimation, adaptive beamforming, and channel estimation with low system costs and competitive performance, laying the foundations for wireless communication, target localization, and anti-interference.
@@ -59,7 +59,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - C. Zhou, **H. Zheng**, Y. Gu, Y. Wang, and Z. Shi, "[Research progress on coprime array signal processing: Direction-of-arrival estimation and adaptive beamforming](https://radars.ac.cn/cn/article/doi/10.12000/JR19068)," (互质阵列信号处理研究进展：波达方向估计与自适应波束成形) Journal of Radars (《雷达学报》), vol. 8, no. 5, pp. 558-577, Oct. 2019. (in Chinese)
 
--  B. Li, F. Cheng, **H. Zheng** *, Z. Shi, and C. Zhou, "Structural-missing tensor completion for robust DOA estimation with sensor failure," Appl. Sci., 2023. (*corresponding author)
+-  B. Li, F. Cheng, **H. Zheng** \*, Z. Shi, and C. Zhou, "Structural-missing tensor completion for robust DOA estimation with sensor failure," Appl. Sci., 2023. (\*corresponding author)
 
 -  **H. Zheng**, Z. Shi, C. Zhou, S. A. Vorobyov, and Y. Gu, "Deep tensor 2-D DOA estimation for URA," IEEE Trans. Signal Process., Under review.  
 
