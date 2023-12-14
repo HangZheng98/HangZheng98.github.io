@@ -89,7 +89,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "Tensorial Hankel reconstruction for coherent DOA estimation with sensor failure," IEEE Int. Conf. Commun. Technol. (ICCT), Wuxi, China, Oct. 2023, Accepted.
 
-- L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "Sensing-aided communication channel estimation with tensor-based moving target localization," IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, Submitted.
+- L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "Sensing-aided communication channel estimation with tensor-based moving target localization," IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, Accepted.
 
 - **郑航**, 周成伟, 王勇, 史治国, "面向电磁矢量互质面阵的张量波束成形", 第十五届全国雷达学术年会, 广州, 中国, 2020 年 12 月, pp. 285-293.
 
