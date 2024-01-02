@@ -85,7 +85,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - L. Lin, **H. Zheng**, C. Zhou, and Z. Shi, "[Channel covariance matrix construction for DOA estimation with limited communication symbols](https://ieeexplore.ieee.org/document/10149637)," in Proc. IEEE Radar Conf., TX, USA, May 2023, pp. 1-5.
 
-- C. He, **H. Zheng**, B. Li, C. Zhou, and Z. Shi, "[DOA estimation via meta-learning under array sensor failures](https://ieeexplore.ieee.org/document/10371100)," Int. Conf. Radar, Sydney, Australia, Nov. 2023.
+- C. He, **H. Zheng**, B. Li, C. Zhou, and Z. Shi, "[DOA estimation via meta-learning under array sensor failures](https://ieeexplore.ieee.org/document/10371100)," in Proc. Int. Conf. Radar, Sydney, Australia, Nov. 2023.
 
 - F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "Tensorial Hankel reconstruction for coherent DOA estimation with sensor failure," IEEE Int. Conf. Commun. Technol. (ICCT), Wuxi, China, Oct. 2023, Accepted.
 
@@ -107,6 +107,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - 史治国, **郑航**, 陈积明, 颜成钢, 周成伟, 王勇. 基于乘性张量波束扫描的电磁矢量互质面阵多维参数估计方法, ZL 202011490509.0, 2023-06-27. [Chinese patent]
 - 史治国, 陈剑锋, 单国锋, **郑航**. 一种自动探测测向无人机的方法, ZL 202010786192.9, 2023-07-07. [Chinese patent]
 - 史治国, **郑航**, 周成伟, 陈积明, 王勇. 相互相関テンソルに基づく三次元の互いに素のキュービックアレイの到来方向推定方法, JP 7327840, 2023-08-07. [Japanese patent]
+- J. Chen, Z. Shi, **H. Zheng**, C. Zhou. Composite tensor beamforming method for electromagnetic vector coprime planar array, US 11841448, 2023-12-12. [American patent]
 
 # 🎖 Honors and Awards
 - *2023.10*: 2023年“信息与通信工程学科”全国博士生论坛优秀口头报告
