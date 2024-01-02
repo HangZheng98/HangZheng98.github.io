@@ -85,7 +85,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - L. Lin, **H. Zheng**, C. Zhou, and Z. Shi, "[Channel covariance matrix construction for DOA estimation with limited communication symbols](https://ieeexplore.ieee.org/document/10149637)," in Proc. IEEE Radar Conf., TX, USA, May 2023, pp. 1-5.
 
-- C. He, **H. Zheng**, B. Li, C. Zhou, and Z. Shi, "DOA estimation via meta-learning under array sensor failures," Int. Conf. Radar, Sydney, Australia, Nov. 2023, Accepted.
+- C. He, **H. Zheng**, B. Li, C. Zhou, and Z. Shi, "[DOA estimation via meta-learning under array sensor failures](https://ieeexplore.ieee.org/document/10371100)," Int. Conf. Radar, Sydney, Australia, Nov. 2023.
 
 - F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "Tensorial Hankel reconstruction for coherent DOA estimation with sensor failure," IEEE Int. Conf. Commun. Technol. (ICCT), Wuxi, China, Oct. 2023, Accepted.
 
