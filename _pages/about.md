@@ -29,7 +29,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 # 🔥 News
 - *2023.08*: &nbsp;🎉 Our paper [Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921) is accepted to *IEEE Transactions on Signal Processing*
-- *2023.06*: &nbsp;🎉 Our paper [Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10095288) is recognized as the [<font color=red>Top 3% paper of all accepted papers</font>](https://maifile.cn/est/a2816949397768/pdf) at *IEEE ICASSP 2023*
+- *2023.06*: &nbsp;🎉 Our paper [Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10095288) is recognized as the <font color=red>Top 3% paper of all accepted papers</font> at *IEEE ICASSP 2023*
 - *2023.03*: &nbsp;🎉 Our papers [Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271) and [Coarray tensor completion for DOA estimation](https://ieeexplore.ieee.org/document/10087326) are respectively accepted to *IEEE Transactions on Signal Processing* and *IEEE Transactions on Aerospace and Electronic Systems*
 
   
@@ -59,7 +59,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - C. Zhou, **H. Zheng**, Y. Gu, Y. Wang, and Z. Shi, "[Research progress on coprime array signal processing: Direction-of-arrival estimation and adaptive beamforming](https://radars.ac.cn/cn/article/doi/10.12000/JR19068)," (互质阵列信号处理研究进展：波达方向估计与自适应波束成形) Journal of Radars (《雷达学报》), vol. 8, no. 5, pp. 558-577, Oct. 2019. (in Chinese)
 
--  B. Li, F. Cheng, **H. Zheng** \*, Z. Shi, and C. Zhou, "[Structural-missing tensor completion for robust DOA estimation with sensor failure](https://www.mdpi.com/2076-3417/13/23/12740)," Appl. Sci., 2023. (\*corresponding author)
+-  B. Li, F. Cheng, **H. Zheng** \*, Z. Shi, and C. Zhou, "[Structural-missing tensor completion for robust DOA estimation with sensor failure](https://www.mdpi.com/2076-3417/13/23/12740)," Appl. Sci., vol. 13, no. 23, Art. no. 12740, 2023. (\*corresponding author)
 
 -  **H. Zheng**, Z. Shi, C. Zhou, S. A. Vorobyov, and Y. Gu, "Deep tensor 2-D DOA estimation for URA," IEEE Trans. Signal Process., Under review.  
 
@@ -114,11 +114,11 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - *2023.10*: 2023年“信息与通信工程学科”全国博士生论坛优秀口头报告
 - *2023.10*：National Scholarship for Graduate Excellence / 研究生国家奖学金 
 - *2023.08*: 第八届中国科协优秀科技论文 
-- *2023.06*: [ICASSP 2023 Top 3% of all accepted papers](https://maifile.cn/est/a2816949397768/pdf)
-- *2022.09*: [ICAUS 2022 Best paper award](https://maifile.cn/est/a3176949404664/pdf)
-- *2020.12*: [ISAP 2020 Best paper award](https://maifile.cn/est/a3156949401013/pdf)
-- *2022.12*: [《Journal of Radars》2019 Highly cited paper](https://maifile.cn/est/a2586949405559/pdf) /《雷达学报》2019年度高被引论文
-- *2021.12*: [Chu Kochen Scholarship](https://maifile.cn/est/a2666949403508/pdf) (12 graduate students at Zhejiang University each year) / 竺可桢奖学金 (浙江大学研究生最高层次荣誉)
+- *2023.06*: IEEE ICASSP 2023 Top 3% of all accepted papers
+- *2022.09*: ICAUS 2022 Best paper award
+- *2020.12*: IEICE ISAP 2020 Best paper award
+- *2022.12*: 《Journal of Radars》2019 Highly cited paper/《雷达学报》2019年度高被引论文
+- *2021.12*: Chu Kochen Scholarship(12 graduate students at Zhejiang University each year) / 竺可桢奖学金 (浙江大学研究生最高层次荣誉)
 - *2021.12*: Scholarship for ISEE Excellent Students
 - *2023.05*, *2021.06*: 2次获华为菁英奖学金
 - Graduate of Merit, Award of Honor for Graduate
@@ -131,7 +131,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 
 # 📖 Educations
-- *2019.09 - now*, **Ph.D. student**, College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China
+- *2019.09 - 2024.06*, **Ph.D. student**, College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China
 - *2022.10 - 2023.10*, **Joint training Ph.D. student**, Department of Acoustics & Signal Processing, Aalto University, Espoo, Finland
 - *2015.09 - 2019.07*, **Bachelor**, College of Transportation Engineering, Tongji University, Shanghai, China
 
