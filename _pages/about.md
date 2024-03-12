@@ -20,7 +20,7 @@ redirect_from:
 I am a fifth-year Ph.D. student in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I was a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
 
 
-My research interest includes *array signal processing*, *tensor signal processing*, and *AI for signal processing*. To effectively process large-scale high-dimensional array signals in future communication and sensing systems, I developed the theories of <font color=blue>sub-Nyquist tensor processing</font>, <font color=blue>efficient tensor optimization</font>, and <font color=blue>resource-efficient tensorized neural networks</font>. The proposed methods facilitate direction-of-arrival (DOA) estimation, adaptive beamforming, and channel estimation with low system costs and competitive performance, laying the foundations for wireless communication, target localization, and anti-interference.
+My research interests include *array signal processing*, *tensor signal processing*, and *AI for signal processing*. To effectively process large-scale high-dimensional array signals in future communication and sensing systems, I developed the theories of <font color=blue>sub-Nyquist tensor processing</font>, <font color=blue>efficient tensor optimization</font>, and <font color=blue>resource-efficient tensorized neural networks</font>. The proposed methods facilitate direction-of-arrival (DOA) estimation, adaptive beamforming, and channel estimation with low system costs and competitive performance, laying the foundations for wireless communication, target localization, and anti-interference.
 
 
 I have published 20+ papers at top journals and international conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -51,9 +51,9 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - **H. Zheng**, Z. Shi, C. Zhou, M. Haardt, and J. Chen, "[Coupled coarray tensor CPD for DOA estimation with coprime L-shaped array](https://ieeexplore.ieee.org/document/9495264)," IEEE Signal Process. Lett., vol. 28, pp. 1545-1549, July 2021.
 
-- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "[Tensor beamforming for EMVS coprime planar array](https://kns.cnki.net/kcms2/article/abstract?v=18Spvz_s8rEj5ENd1JTL7jsgtrGVKFL1AImYgBDeTn23Vn479TU3qr0KoB1eTG3i5e9jlke9Yo_kxHaWEn92g21LL9zxJpT-T2XX9f_QWZ7q6quTRHRx0nLitKPpec9S7qQ5kGhSQ3Q=&uniplatform=NZKPT&language=CHS)," (EMVS互质面阵张量波束成形) Journal of Signal Processing (《信号处理》), 2023. (in Chinese)
+- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "[Tensor beamforming for EMVS coprime planar array](https://signal.ejournal.org.cn/cn/article/doi/10.16798/j.issn.1003-0530.2024.02.003)," (EMVS互质面阵张量波束成形) Journal of Signal Processing (《信号处理》), vol, 40. no. 2, pp. 250-262, 2024. (in Chinese)
 
--  F. Xu, **H. Zheng**, and S. A. Vorobyov, "[Tensor-based 2D DOA estimation for L-shaped nested array](https://ieeexplore.ieee.org/document/10292874)," IEEE Trans. Aerosp. Electron. Syst., 2023.
+-  F. Xu, **H. Zheng**, and S. A. Vorobyov, "[Tensor-based 2D DOA estimation for L-shaped nested array](https://ieeexplore.ieee.org/document/10292874)," IEEE Trans. Aerosp. Electron. Syst., vol. 60, no. 1, pp. 604-618, 2024.
 
 - L. Lin, **H. Zheng**, C. Zhou, S. He, and Z. Shi, "[Nonorthogonal waveform assisted DOA estimation for joint MIMO sensing and communication](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-023-00976-6)," EURASIP J. Adv. Signal Process., vol. 2023, no. 1, Art. no. 22, Feb. 2023.
 
