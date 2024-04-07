@@ -28,6 +28,7 @@ I have published 20+ papers at top journals and international conferences with g
 I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Processing, and IET Signal processing.
 
 # 🔥 News
+- *2023.11*: Our paper received the <font color=red>Excellent Scientific Papers</font> from *China Association for Science and Technology*
 - *2023.08*: &nbsp;🎉 Our paper [Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921) is accepted to *IEEE Transactions on Signal Processing*
 - *2023.06*: &nbsp;🎉 Our paper [Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10095288) is recognized as the <font color=red>Top 3% paper of all accepted papers</font> at *IEEE ICASSP 2023*
 - *2023.03*: &nbsp;🎉 Our papers [Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271) and [Coarray tensor completion for DOA estimation](https://ieeexplore.ieee.org/document/10087326) are respectively accepted to *IEEE Transactions on Signal Processing* and *IEEE Transactions on Aerospace and Electronic Systems*
@@ -89,7 +90,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "[Tensorial Hankel reconstruction for coherent DOA estimation with sensor failure](https://ieeexplore.ieee.org/abstract/document/10419453)," in Proc. IEEE Int. Conf. Commun. Technol. (ICCT), Wuxi, China, Oct. 2023, pp. 221-225.
 
-- L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "Sensing-aided communication channel estimation with tensor-based moving target localization," IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, Accepted.
+- L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "[Sensing-aided communication channel estimation with tensor-based moving target localization](https://ieeexplore.ieee.org/abstract/document/10448481)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, pp. 8606-8610.
 
 - **郑航**, 周成伟, 王勇, 史治国, "面向电磁矢量互质面阵的张量波束成形", 第十五届全国雷达学术年会, 广州, 中国, 2020 年 12 月, pp. 285-293.
 
@@ -111,9 +112,9 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - J. Chen, Z. Shi, **H. Zheng**, C. Zhou. Composite tensor beamforming method for electromagnetic vector coprime planar array, US 11841448, 2023-12-12. [American patent]
 
 # 🎖 Honors and Awards
+- *2023.11*: Excellent Scientific Papers from China Association for Science and Technology / 第八届中国科协优秀科技论文 
 - *2023.10*: 2023年“信息与通信工程学科”全国博士生论坛优秀口头报告
 - *2023.10*：National Scholarship for Graduate Excellence / 研究生国家奖学金 
-- *2023.08*: 第八届中国科协优秀科技论文 
 - *2023.06*: IEEE ICASSP 2023 Top 3% of all accepted papers
 - *2022.09*: ICAUS 2022 Best paper award
 - *2020.12*: IEICE ISAP 2020 Best paper award
