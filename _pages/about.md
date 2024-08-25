@@ -28,6 +28,7 @@ I have published 20+ papers at top journals and international conferences with g
 I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Processing, and IET Signal processing.
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉 Our paper [Deep tensor 2-D DOA estimation for URA](https://ieeexplore.ieee.org/document/10644148) is accepted to *IEEE Transactions on Signal Processing*
 - *2023.11*: &nbsp;🎉 Our paper received the <font color=red>Excellent Scientific Papers</font> from *China Association for Science and Technology*
 - *2023.08*: &nbsp;🎉 Our paper [Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921) is accepted to *IEEE Transactions on Signal Processing*
 - *2023.06*: &nbsp;🎉 Our paper [Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10095288) is recognized as the <font color=red>Top 3% paper of all accepted papers</font> at *IEEE ICASSP 2023*
@@ -37,6 +38,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 # 📝 Publications 
 
 ## **Journal papers**
+- **H. Zheng**, Z. Shi, C. Zhou, S. A. Vorobyov, and Y. Gu, "[Deep tensor 2-D DOA estimation for URA](https://ieeexplore.ieee.org/document/10644148)," IEEE Trans. Signal Process., 2024.  
 
 - **H. Zheng**, C. Zhou, Z. Shi, Y. Gu, and Y. D. Zhang, "[Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271)," IEEE Trans. Signal Process., vol. 71, pp. 1128-1142, 2023. 
 
@@ -61,8 +63,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - C. Zhou, **H. Zheng**, Y. Gu, Y. Wang, and Z. Shi, "[Research progress on coprime array signal processing: Direction-of-arrival estimation and adaptive beamforming](https://radars.ac.cn/cn/article/doi/10.12000/JR19068)," (互质阵列信号处理研究进展：波达方向估计与自适应波束成形) Journal of Radars (《雷达学报》), vol. 8, no. 5, pp. 558-577, Oct. 2019. (in Chinese)
 
 -  B. Li, F. Cheng, **H. Zheng** \*, Z. Shi, and C. Zhou, "[Structural-missing tensor completion for robust DOA estimation with sensor failure](https://www.mdpi.com/2076-3417/13/23/12740)," Appl. Sci., vol. 13, no. 23, Art. no. 12740, 2023. (\*corresponding author)
-
--  **H. Zheng**, Z. Shi, C. Zhou, S. A. Vorobyov, and Y. Gu, "Deep tensor 2-D DOA estimation for URA," IEEE Trans. Signal Process., Under review.  
+-  
 
 ## **Conference papers**
 
@@ -169,4 +170,4 @@ The algorithm for beamforming design and results are presented in our papers pub
 - Design tensorized neural networks to efficiently learn inherent features from multi-dimensional array signals, leading to *<font color=blue>robust performance in non-ideal situations</font>* such as low signal-to-noise (SNR) ratio and limited snapshots
 - Highly compress the parameters in tensorized neural layers, and *<font color=blue>accelerate the training speed</font>* of the tensorized neural network
 
-This work was presented at IEEE ICASSP 2023, and recognized as the Top 3% paper. The extended paper is submitted to IEEE TSP.
+This work was presented at IEEE ICASSP 2023, and recognized as the Top 3% paper. The extended paper is accepted to IEEE TSP.
