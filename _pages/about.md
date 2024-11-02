@@ -99,6 +99,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 
 # 📄 Patents
+- **H. Zheng**, C. Zhou, Z. Shi, and J. Chen. Method for estimation direction of arrival of an L-type coprime array based on coupled tensor decomposition, US 12117545, 2024-10-15. [American patent]
 - C. Zhou, **H. Zheng**, J. Chen, Z. Shi. High resolution, accurate, two-dimensional direction-of-arrival estimation method based on coarray tensor spatial spectrum searching with coprime planar array, US 11300648, 2022-04-12. [American patent]
 - Z. Shi, **H. Zheng**, C. Zhou, J. Chen. Two-dimensional direction-of-arrival estimation method for coprime planar array based on structured coarray tensor processing, US 11408960, 2022-08-09. [American patent]
 - J. Chen, **H. Zheng**, Z. Shi, C. Zhou. Spatial spectrum estimation method with enhanced degree-of-freedom based on block sampling tensor construction for coprime planar array, US 11422177, 2022-08-23. [American patent]
