@@ -93,6 +93,8 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "[Sensing-aided communication channel estimation with tensor-based moving target localization](https://ieeexplore.ieee.org/abstract/document/10448481)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, pp. 8606-8610.
 
+- Y. Ren, **H. Zheng** and Z. Shi, "[Tensor-Based Subspace Fusion for Direct Position Determination](https://ieeexplore.ieee.org/abstract/document/10681969)," in Proc. IEEE/CIC International Conference on Communications in China (ICCC), Hangzhou, China, 2024, pp. 208-212
+
 - **郑航**, 周成伟, 王勇, 史治国, "面向电磁矢量互质面阵的张量波束成形", 第十五届全国雷达学术年会, 广州, 中国, 2020 年 12 月, pp. 285-293.
 
 
