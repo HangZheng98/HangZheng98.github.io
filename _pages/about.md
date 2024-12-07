@@ -65,6 +65,8 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 -  B. Li, F. Cheng, **H. Zheng** \*, Z. Shi, and C. Zhou, "[Structural-missing tensor completion for robust DOA estimation with sensor failure](https://www.mdpi.com/2076-3417/13/23/12740)," Appl. Sci., vol. 13, no. 23, Art. no. 12740, 2023. (\*corresponding author)
 
+-  Y. Fan, Y. Wang, **H. Zheng** and Z. Shi, "[Video2mmPoint: Synthesizing mmWave Point Cloud Data from Videos for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10745215)," IEEE Sensors Journal, 2024.
+
 
 ## **Conference papers**
 
@@ -94,7 +96,9 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "[Sensing-aided communication channel estimation with tensor-based moving target localization](https://ieeexplore.ieee.org/abstract/document/10448481)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, pp. 8606-8610.
 
-- Y. Ren, **H. Zheng** and Z. Shi, "[Tensor-Based Subspace Fusion for Direct Position Determination](https://ieeexplore.ieee.org/abstract/document/10681969)," in Proc. IEEE/CIC International Conference on Communications in China (ICCC), Hangzhou, China, 2024, pp. 208-212
+- Y. Ren, **H. Zheng** and Z. Shi, "[Tensor-Based Subspace Fusion for Direct Position Determination](https://ieeexplore.ieee.org/abstract/document/10681969)," in Proc. IEEE/CIC International Conference on Communications in China (ICCC), Hangzhou, China, 2024, pp. 208-212.
+
+- F. Qian, **H. Zheng**, C. Zhou and Z. Shi, "[Spatial Sectorized Neural Network for 2-D DOA Estimation in the Full Azimuth](https://ieeexplore.ieee.org/abstract/document/10715211)," in Proc. European Signal Processing Conference (EUSIPCO), Lyon, France, 2024, pp. 1147-1151.
 
 - **郑航**, 周成伟, 王勇, 史治国, "面向电磁矢量互质面阵的张量波束成形", 第十五届全国雷达学术年会, 广州, 中国, 2020 年 12 月, pp. 285-293.
 
