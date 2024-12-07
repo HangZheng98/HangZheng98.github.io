@@ -28,6 +28,7 @@ I have published 20+ papers at top journals and international conferences with g
 I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Processing, and IET Signal processing.
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉 Our papers [Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271) is an *<font color=red>ESI Highly Cited Paper</font>*.
 - *2024.08*: &nbsp;🎉 Our paper [Deep tensor 2-D DOA estimation for URA](https://ieeexplore.ieee.org/document/10644148) is accepted to *IEEE Transactions on Signal Processing*
 - *2023.11*: &nbsp;🎉 Our paper received the <font color=red>Excellent Scientific Papers</font> from *China Association for Science and Technology*
 - *2023.08*: &nbsp;🎉 Our paper [Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921) is accepted to *IEEE Transactions on Signal Processing*
