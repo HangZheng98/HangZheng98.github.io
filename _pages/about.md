@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-On June 2024, I received the Ph.D. degree in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I was a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
+On June 2024, I received the Ph.D. degree in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE, IEEE Fellow), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I was a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
 
 
-My research interests include *array signal processing*, *tensor signal processing*, and *AI for signal processing*. To effectively process large-scale high-dimensional array signals in future communication and sensing systems, I developed the theories of <font color=blue>sub-Nyquist tensor processing</font>, <font color=blue>efficient tensor optimization</font>, and <font color=blue>resource-efficient tensorized neural networks</font>. The proposed methods facilitate direction-of-arrival (DOA) estimation, adaptive beamforming, and channel estimation with low system costs and competitive performance, laying the foundations for wireless communication, target localization, and anti-interference.
+My research interests include *array signal processing*, *tensor signal processing*, and *AI for signal processing*. To effectively process large-scale high-dimensional array signals in future communication and sensing systems, I am working on the theories and techniques of <font color=blue>sub-Nyquist tensor processing</font>, <font color=blue>efficient tensor optimization</font>, and <font color=blue>resource-efficient tensorized neural networks</font>. The proposed methods facilitate direction-of-arrival (DOA) estimation, parameter estimation, and adaptive beamforming with low system costs and competitive performance, laying the foundations for ISAC, target localization, and anti-interference.
 
 
 I have published 20+ papers at top journals and international conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -28,7 +28,7 @@ I have published 20+ papers at top journals and international conferences with g
 I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Processing, and IET Signal processing.
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉 Our papers [Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271) is an <font color=red>*ESI Highly Cited Paper*</font>.
+- *2024.11*: &nbsp;🎉 Our paper [Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271) is an <font color=red>ESI Highly Cited Paper</font>.
 - *2024.08*: &nbsp;🎉 Our paper [Deep tensor 2-D DOA estimation for URA](https://ieeexplore.ieee.org/document/10644148) is accepted to *IEEE Transactions on Signal Processing*
 - *2023.11*: &nbsp;🎉 Our paper received the <font color=red>Excellent Scientific Papers</font> from *China Association for Science and Technology*
 - *2023.08*: &nbsp;🎉 Our paper [Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921) is accepted to *IEEE Transactions on Signal Processing*
@@ -39,7 +39,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 # 📝 Publications 
 
 ## **Journal papers**
-- **H. Zheng**, Z. Shi, C. Zhou, S. A. Vorobyov, and Y. Gu, "[Deep tensor 2-D DOA estimation for URA](https://ieeexplore.ieee.org/document/10644148)," IEEE Trans. Signal Process., 2024.  
+- **H. Zheng**, Z. Shi, C. Zhou, S. A. Vorobyov, and Y. Gu, "[Deep tensor 2-D DOA estimation for URA](https://ieeexplore.ieee.org/document/10644148)," IEEE Trans. Signal Process., vol. 72, pp. 4065-4080, 2024.  
 
 - **H. Zheng**, C. Zhou, Z. Shi, Y. Gu, and Y. D. Zhang, "[Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271)," IEEE Trans. Signal Process., vol. 71, pp. 1128-1142, 2023. 
 
@@ -55,17 +55,23 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 
 - **H. Zheng**, Z. Shi, C. Zhou, M. Haardt, and J. Chen, "[Coupled coarray tensor CPD for DOA estimation with coprime L-shaped array](https://ieeexplore.ieee.org/document/9495264)," IEEE Signal Process. Lett., vol. 28, pp. 1545-1549, July 2021.
 
-- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "[Tensor beamforming for EMVS coprime planar array](https://signal.ejournal.org.cn/cn/article/doi/10.16798/j.issn.1003-0530.2024.02.003)," (EMVS互质面阵张量波束成形) Journal of Signal Processing (《信号处理》), vol, 40. no. 2, pp. 250-262, 2024. (in Chinese)
+- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "[EMVS互质面阵张量波束成形](https://signal.ejournal.org.cn/cn/article/doi/10.16798/j.issn.1003-0530.2024.02.003),"《信号处理》, vol, 40. no. 2, pp. 250-262, 2024. (in Chinese)
 
--  F. Xu, **H. Zheng**, and S. A. Vorobyov, "[Tensor-based 2D DOA estimation for L-shaped nested array](https://ieeexplore.ieee.org/document/10292874)," IEEE Trans. Aerosp. Electron. Syst., vol. 60, no. 1, pp. 604-618, 2024.
+- L. Lin, J. Tong, H. Lin, **H. Zheng** and Z. Shi, "[Joint Target Localization and Channel Estimation for ODDM-ISAC Systems](https://ieeexplore.ieee.org/abstract/document/10930806)," IEEE Signal Processing Letters, 2025.
+  
+- Y. Yue, **H. Zheng**, Z. Shi and G. Liao, "[Two-stage Reconstruction for Co-array 2D DOA Estimation of Mixed Circular and Noncircular Signals](https://ieeexplore.ieee.org/abstract/document/10878439)," IEEE Transactions on Vehicular Technology, 2025.
+  
+- Y. Fan, Y. Wang, **H. Zheng** and Z. Shi, "[Video2mmPoint: Synthesizing mmWave Point Cloud Data from Videos for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10745215)," IEEE Sensors Journal, 2024.
+  
+- F. Xu, **H. Zheng**, and S. A. Vorobyov, "[Tensor-based 2D DOA estimation for L-shaped nested array](https://ieeexplore.ieee.org/document/10292874)," IEEE Trans. Aerosp. Electron. Syst., vol. 60, no. 1, pp. 604-618, 2024.
 
 - L. Lin, **H. Zheng**, C. Zhou, S. He, and Z. Shi, "[Nonorthogonal waveform assisted DOA estimation for joint MIMO sensing and communication](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-023-00976-6)," EURASIP J. Adv. Signal Process., vol. 2023, no. 1, Art. no. 22, Feb. 2023.
 
-- C. Zhou, **H. Zheng**, Y. Gu, Y. Wang, and Z. Shi, "[Research progress on coprime array signal processing: Direction-of-arrival estimation and adaptive beamforming](https://radars.ac.cn/cn/article/doi/10.12000/JR19068)," (互质阵列信号处理研究进展：波达方向估计与自适应波束成形) Journal of Radars (《雷达学报》), vol. 8, no. 5, pp. 558-577, Oct. 2019. (in Chinese)
+- C. Zhou, **H. Zheng**, Y. Gu, Y. Wang, and Z. Shi, "[互质阵列信号处理研究进展：波达方向估计与自适应波束成形](https://radars.ac.cn/cn/article/doi/10.12000/JR19068)," 《雷达学报》, vol. 8, no. 5, pp. 558-577, Oct. 2019. (in Chinese)
 
--  B. Li, F. Cheng, **H. Zheng** \*, Z. Shi, and C. Zhou, "[Structural-missing tensor completion for robust DOA estimation with sensor failure](https://www.mdpi.com/2076-3417/13/23/12740)," Appl. Sci., vol. 13, no. 23, Art. no. 12740, 2023. (\*corresponding author)
+- B. Li, F. Cheng, **H. Zheng** \*, Z. Shi, and C. Zhou, "[Structural-missing tensor completion for robust DOA estimation with sensor failure](https://www.mdpi.com/2076-3417/13/23/12740)," Appl. Sci., vol. 13, no. 23, Art. no. 12740, 2023. (\*corresponding author)
 
--  Y. Fan, Y. Wang, **H. Zheng** and Z. Shi, "[Video2mmPoint: Synthesizing mmWave Point Cloud Data from Videos for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10745215)," IEEE Sensors Journal, 2024.
+
 
 
 ## **Conference papers**
@@ -121,23 +127,19 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - J. Chen, Z. Shi, **H. Zheng**, C. Zhou. Composite tensor beamforming method for electromagnetic vector coprime planar array, US 11841448, 2023-12-12. [American patent]
 
 # 🎖 Honors and Awards
-- *2023.11*: Excellent Scientific Papers from China Association for Science and Technology / 第八届中国科协优秀科技论文 
-- *2023.10*: 2023年“信息与通信工程学科”全国博士生论坛优秀口头报告
-- *2023.10*：National Scholarship for Graduate Excellence / 研究生国家奖学金 
+- *2025.01*：中国电子教育学会优秀博士学位论文
+- *2023.11*: Excellent Scientific Papers from China Association for Science and Technology（中国科协优秀科技论文） 
 - *2023.06*: IEEE ICASSP 2023 Top 3% of all accepted papers
 - *2022.09*: ICAUS 2022 Best paper award
 - *2020.12*: IEICE ISAP 2020 Best paper award
-- *2022.12*: 《Journal of Radars》2019 Highly cited paper/《雷达学报》2019年度高被引论文
-- *2021.12*: Chu Kochen Scholarship(12 graduate students at Zhejiang University each year) / 竺可桢奖学金 (浙江大学研究生最高层次荣誉)
-- *2021.12*: Scholarship for ISEE Excellent Students
-- *2023.05*, *2021.06*: 2次获华为菁英奖学金
-- Graduate of Merit, Award of Honor for Graduate
+- *2023.10*：National Scholarship for Graduate Excellence（研究生国家奖学金）
+- *2021.12*: Chu Kochen Scholarship（浙江大徐研究生竺可桢奖学金）
+- *2023.05*, *2021.06*: 华为菁英奖学金
 - Supported by the China Scholarship Council (CSC) for joint training at Aalto University
 - 全国数学建模竞赛上海市一等奖, 全国二等奖
 - "创青春"上海市大学生创业大赛创业计划类金奖
 - "挑战杯"全国大学生创业大赛银奖
 - "互联网+"大学生创新创业大赛上海市铜奖
-- 壳牌汽车节能马拉松竞赛国际第二名, 最佳设计奖 (同济大学志远车队电控组组长)
 
 
 # 📖 Educations
