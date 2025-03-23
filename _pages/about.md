@@ -23,7 +23,7 @@ On June 2024, I received the Ph.D. degree in the College of Information Science 
 My research interests include *array signal processing*, *tensor signal processing*, and *AI for signal processing*. To effectively process large-scale high-dimensional array signals in future communication and sensing systems, I am working on the theories and techniques of <font color=blue>sub-Nyquist tensor processing</font>, <font color=blue>efficient tensor optimization</font>, and <font color=blue>resource-efficient tensorized neural networks</font>. The proposed methods facilitate direction-of-arrival (DOA) estimation, parameter estimation, and adaptive beamforming with low system costs and competitive performance, laying the foundations for ISAC, target localization, and anti-interference.
 
 
-I have published 20+ papers at top journals and international conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have published 30+ papers at top journals and international conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Processing, and IET Signal processing.
 
@@ -133,7 +133,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 - *2022.09*: ICAUS 2022 Best paper award
 - *2020.12*: IEICE ISAP 2020 Best paper award
 - *2023.10*：National Scholarship for Graduate Excellence（研究生国家奖学金）
-- *2021.12*: Chu Kochen Scholarship（浙江大徐研究生竺可桢奖学金）
+- *2021.12*: Chu Kochen Scholarship（浙江大学研究生竺可桢奖学金）
 - *2023.05*, *2021.06*: 华为菁英奖学金
 - Supported by the China Scholarship Council (CSC) for joint training at Aalto University
 - 全国数学建模竞赛上海市一等奖, 全国二等奖
