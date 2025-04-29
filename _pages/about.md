@@ -22,10 +22,8 @@ On June 2024, I received the Ph.D. degree in the College of Information Science 
 
 My research interests include *Array Signal Processing*, *Tensor Signal Processing*, and *AI for Signal Processing*. I have been working on fundamental theories of <font color=blue>sub-Nyquist tensor signal processing</font>, <font color=blue>efficient tensor optimization</font>, <font color=blue>resource-efficient tensorized neural networks</font>, and their applications in <font color=blue>DOA Estimation</font>, <font color=blue>Adaptive Beamforming</font>, <font color=blue>ISAC Systems</font>. 
 
+I have published 30+ papers at Top Journals and International Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-I have published 30+ papers at top journals and international conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
-I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Processing, and IET Signal processing.
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉 Our paper [Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271) is recognized as an <font color=red>ESI Highly Cited Paper</font>.
@@ -41,7 +39,7 @@ I am an active reviewer for IEEE TSP, IEEE TAES, IEEE TVT, IEEE SPL, Signal Proc
 ## **Journal papers**
 - **H. Zheng**, Z. Shi, C. Zhou, S. A. Vorobyov, and Y. Gu, "[Deep tensor 2-D DOA estimation for URA](https://ieeexplore.ieee.org/document/10644148)," IEEE Trans. Signal Process., vol. 72, pp. 4065-4080, 2024.  
 
-- **H. Zheng**, C. Zhou, Z. Shi, Y. Gu, and Y. D. Zhang, "[Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271)," IEEE Trans. Signal Process., vol. 71, pp. 1128-1142, 2023. 
+- **H. Zheng**, C. Zhou, Z. Shi, Y. Gu, and Y. D. Zhang, "[Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271)," IEEE Trans. Signal Process., vol. 71, pp. 1128-1142, 2023. <font color=red>(ESI Highly Cited Paper)</font>
 
 - **H. Zheng**, C. Zhou, Z. Shi, and G. Liao, "[Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921)," IEEE Trans. Signal Process., vol. 71, pp. 4163-4177, 2023.
 
