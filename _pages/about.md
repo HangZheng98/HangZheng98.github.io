@@ -144,7 +144,7 @@ I have published 30+ papers at Top Journals and International Conferences with g
 - "互联网+"大学生创新创业大赛上海市铜奖
 
 
-# 💬 Research Highlights
+# 📌 Research Highlights
 
 ## Sub-Nyquist tensor DOA estimation
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DOA.png' alt="sym" width="100%"></div></div>
