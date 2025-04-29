@@ -19,7 +19,11 @@ redirect_from:
 
 
 On June 2024, I received the Ph.D. degree in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE, IEEE Fellow), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I was a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
+
+
 My research interests include *Array Signal Processing*, *Tensor Signal Processing*, and *AI for Signal Processing*. I have been working on fundamental theories of *Sub-Nyquist Tensor Signal Processing*, *Tensor-based Optimization*, *Tensorized Neural Networks*, and their applications in *DOA Estimation*, *Adaptive Beamforming*, *ISAC Systems*. 
+
+
 I have published 30+ papers at Top Journals and International Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and have been granted 30+ patents. I serve as an active reviewer for IEEE TSP, IEEE TAES, IEEE SPL, IEEE TWC, etc.
 
 
@@ -71,7 +75,7 @@ I have published 30+ papers at Top Journals and International Conferences with g
 1. **H. Zheng**, Z. Shi, S.A. Vorobyov, C. Zhou, and Y. Gu, "Tensorized neural networks in array signal processing," in Machine Learning for Radar Signal Processing, Eds. Y. Gu, Y.D. Zhang, IEEE-Wiley Press, 2025, submitted.
 
 
-## 📜 **Journal Papers in Chinese**
+## 📑 **Journal Papers in Chinese**
 
 1. **郑航**, 史治国, 王勇, 周成伟, "[面向结构化稀疏感知的张量阵列信号处理](https://www.ejournal.org.cn/CN/10.12263/DZXB.20240504)," 《电子学报》, 2025.
 
