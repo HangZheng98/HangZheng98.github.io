@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
 On June 2024, I received the Ph.D. degree in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE, IEEE Fellow), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I was a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
 
 
@@ -142,7 +143,6 @@ I have published 30+ papers at Top Journals and International Conferences with g
 - *2023.10*：National Scholarship for Graduate Excellence（研究生国家奖学金）
 - *2021.12*: Chu Kochen Scholarship（浙江大学研究生竺可桢奖学金）
 - *2023.05*, *2021.06*: 华为菁英奖学金
-- Supported by the China Scholarship Council (CSC) for joint training at Aalto University
 - 全国数学建模竞赛上海市一等奖, 全国二等奖
 - "创青春"上海市大学生创业大赛创业计划类金奖
 - "挑战杯"全国大学生创业大赛银奖
