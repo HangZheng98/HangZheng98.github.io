@@ -1,9 +1,11 @@
 ---
 layout: archive
 permalink: /patents/
-title: ""
+title: "Patents"
 excerpt: ""
 author_profile: true
+redirect_from:
+  - /about
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
