@@ -1,14 +1,11 @@
 ---
-layout: default
+layout: archive
 permalink: /patents/
 title: "Patents"
 excerpt: ""
-author_profile: true
-redirect_from:
-  - /about/
+author_profile: false
 ---
 
-<span class='anchor' id='about-me'></span>
 
 # 📄 Patents
 - **H. Zheng**, C. Zhou, Z. Shi, and J. Chen. Method for estimation direction of arrival of an L-type coprime array based on coupled tensor decomposition, US 12117545, 2024-10-15.
