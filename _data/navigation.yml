@@ -10,7 +10,7 @@ main:
     url: "/about/#-publications"
 
   - title: "Patents"
-    url: "/patents/"
+    url: "/patents/#-patents"
     
   - title: "Honors and Awards"
     url: "/about/#-honors-and-awards"
