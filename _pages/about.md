@@ -22,7 +22,14 @@ On June 2024, I received the Ph.D. degree in the College of Information Science 
 
 My research interests include *Array Signal Processing*, *Tensor Signal Processing*, and *AI for Signal Processing*. I have been working on fundamental theories of <font color=blue>sub-Nyquist tensor signal processing</font>, <font color=blue>efficient tensor optimization</font>, <font color=blue>resource-efficient tensorized neural networks</font>, and their applications in <font color=blue>DOA Estimation</font>, <font color=blue>Adaptive Beamforming</font>, <font color=blue>ISAC Systems</font>. 
 
+
 I have published 30+ papers at Top Journals and International Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+
+# 📖 Educations
+- *2019.09 - 2024.06*, **Ph.D. student**, College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China
+- *2022.10 - 2023.10*, **Joint training Ph.D. student**, Department of Acoustics & Signal Processing, Aalto University, Espoo, Finland
+- *2015.09 - 2019.07*, **Bachelor**, College of Transportation Engineering, Tongji University, Shanghai, China
 
 
 # 🔥 News
@@ -141,11 +148,6 @@ I have published 30+ papers at Top Journals and International Conferences with g
 - "挑战杯"全国大学生创业大赛银奖
 - "互联网+"大学生创新创业大赛上海市铜奖
 
-
-# 📖 Educations
-- *2019.09 - 2024.06*, **Ph.D. student**, College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China
-- *2022.10 - 2023.10*, **Joint training Ph.D. student**, Department of Acoustics & Signal Processing, Aalto University, Espoo, Finland
-- *2015.09 - 2019.07*, **Bachelor**, College of Transportation Engineering, Tongji University, Shanghai, China
 
 # 💬 Research Highlights
 
