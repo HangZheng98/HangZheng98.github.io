@@ -41,7 +41,7 @@ I have published 30+ papers at Top Journals and International Conferences with g
   
 # 📝 Publications 
 
-## **Journal papers**
+## 📃 **Journal papers**
 1. **H. Zheng**, Z. Shi, C. Zhou, S. A. Vorobyov, and Y. Gu, "[Deep tensor 2-D DOA estimation for URA](https://ieeexplore.ieee.org/document/10644148)," IEEE Trans. Signal Process., vol. 72, pp. 4065-4080, 2024.
 
 2. **H. Zheng**, C. Zhou, Z. Shi, Y. Gu, and Y. D. Zhang, "[Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271)," IEEE Trans. Signal Process., vol. 71, pp. 1128-1142, 2023. <font color=red>(ESI Highly Cited Paper)</font>
@@ -70,8 +70,12 @@ I have published 30+ papers at Top Journals and International Conferences with g
 
 14. B. Li, F. Cheng, **H. Zheng** \*, Z. Shi, and C. Zhou, "[Structural-missing tensor completion for robust DOA estimation with sensor failure](https://www.mdpi.com/2076-3417/13/23/12740)," Appl. Sci., vol. 13, no. 23, Art. no. 12740, 2023. (\*corresponding author)
 
+## 📖 ** Book Chapter**
 
-## **中文期刊论文**
+1. **H. Zheng**, Z. Shi, S.A. Vorobyov, C. Zhou, and Y. Gu, "Tensorized neural networks in array signal processing," in Machine Learning for Radar Signal Processing, Eds. Y. Gu, Y.D. Zhang, IEEE-Wiley Press, 2025, submitted.
+
+
+## 📜 **中文期刊论文**
 
 1. **郑航**, 史治国, 王勇, 周成伟, "[面向结构化稀疏感知的张量阵列信号处理](https://www.ejournal.org.cn/CN/10.12263/DZXB.20240504)," 《电子学报》, 2025.
 
@@ -80,7 +84,7 @@ I have published 30+ papers at Top Journals and International Conferences with g
 3. 周成伟, **郑航**, 顾宇杰, 王勇, 史治国, "[互质阵列信号处理研究进展：波达方向估计与自适应波束成形](https://radars.ac.cn/cn/article/doi/10.12000/JR19068)," 《雷达学报》, 8(5): 558-577, 2019.
 
 
-## **Conference papers**
+## 🎙️ **Conference papers**
 
 1. **H. Zheng**, C. Zhou, S. A. Vorobyov, and Z. Shi, "[Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/document/10095288)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Rhodes Island, Greece, June 2023. <font color=red>(Top 3% paper of all accepted papers)</font>
 
