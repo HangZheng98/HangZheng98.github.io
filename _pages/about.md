@@ -21,10 +21,10 @@ redirect_from:
 On June 2024, I received the Ph.D. degree in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE, IEEE Fellow), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I was a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
 
 
-  My research interests include *Array Signal Processing*, *Tensor Signal Processing*, and *AI for Signal Processing*. I have been working on fundamental theories of *Sub-Nyquist Tensor Signal Processing*, *Tensor-based Optimization*, *Tensorized Neural Networks*, and their applications in *DOA Estimation*, *Adaptive Beamforming*, *ISAC Systems*. 
+My research interests include *Array Signal Processing*, *Tensor Signal Processing*, and *AI for Signal Processing*. I have been working on fundamental theories of *Sub-Nyquist Tensor Signal Processing*, *Tensor-based Optimization*, *Tensorized Neural Networks*, and their applications in *DOA Estimation*, *Adaptive Beamforming*, *ISAC Systems*. 
 
 
-I have published 30+ papers at Top Journals and International Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have published 30+ papers at Top Journals and International Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I have been granted 30+ patents. Also, I serve as an active reviewer for IEEE TSP, IEEE TAES, IEEE SPL, IEEE TWC, etc.
 
 
 # 📖 Educations
@@ -114,20 +114,19 @@ I have published 30+ papers at Top Journals and International Conferences with g
 
 
 # 📄 Patents
-- **H. Zheng**, C. Zhou, Z. Shi, and J. Chen. Method for estimation direction of arrival of an L-type coprime array based on coupled tensor decomposition, US 12117545, 2024-10-15.
-- C. Zhou, **H. Zheng**, J. Chen, Z. Shi. High resolution, accurate, two-dimensional direction-of-arrival estimation method based on coarray tensor spatial spectrum searching with coprime planar array, US 11300648, 2022-04-12. 
-- Z. Shi, **H. Zheng**, C. Zhou, J. Chen. Two-dimensional direction-of-arrival estimation method for coprime planar array based on structured coarray tensor processing, US 11408960, 2022-08-09. 
-- J. Chen, **H. Zheng**, Z. Shi, C. Zhou. Spatial spectrum estimation method with enhanced degree-of-freedom based on block sampling tensor construction for coprime planar array, US 11422177, 2022-08-23. 
-- Z. Shi, **H. Zheng**, C. Zhou, J. Chen, Y. Wang. Three-dimensional co-prime cubic array direction-of-arrival estimation method based on a cross-correlation tensor, US 11879986, 2024-01-23. 
-- 史治国, **郑航**, 周成伟, 陈积明, 王勇. 基于互相关张量的三维互质立方阵列波达方向估计方法, ZL 202110065604.4, 2022-02-18.
-- **郑航**, 周成伟，颜成钢，陈剑，史治国，陈积明. 基于耦合张量分解的 L 型互质阵列波达方向估计方法, ZL 202110781692.8, 2022-03-22.
-- **郑航**, 周成伟，颜成钢，史治国，王勇，陈积明. 基于结构化虚拟域张量信号处理的互质面阵二维波达方向估计方法, ZL 202010370072.0, 2022-09-20.
-- **郑航**, 王勇，周成伟，颜成钢，史治国，陈积明. 基于平面互质阵列块采样张量信号构造的自由度增强型空间谱估计方法, ZL 202010370913.8, 2022-10-04.
-- **郑航**, 周成伟，史治国, 王勇，陈积明. 基于平面互质阵列虚拟域张量空间谱搜索的高分辨精确二维波达方向估计方法, ZL 202010371305.9, 2022-12-27.
-- **郑航**, 史治国, 陈积明, 颜成钢, 周成伟, 周金芳. 基于最小化准则的电磁矢量互质面阵张量功率谱估计方法, ZL 202011499625.9, 2023-06-27.
-- 史治国, **郑航**, 陈积明, 颜成钢, 周成伟, 王勇. 基于乘性张量波束扫描的电磁矢量互质面阵多维参数估计方法, ZL 202011490509.0, 2023-06-27.
-- 史治国, 陈剑锋, 单国锋, **郑航**. 一种自动探测测向无人机的方法, ZL 202010786192.9, 2023-07-07.
-- J. Chen, Z. Shi, **H. Zheng**, C. Zhou. Composite tensor beamforming method for electromagnetic vector coprime planar array, US 11841448, 2023-12-12.
+1. **H. Zheng**, C. Zhou, Z. Shi, and J. Chen. Method for estimation direction of arrival of an L-type coprime array based on coupled tensor decomposition, US 12117545, 2024-10-15.
+2. C. Zhou, **H. Zheng**, J. Chen, Z. Shi. High resolution, accurate, two-dimensional direction-of-arrival estimation method based on coarray tensor spatial spectrum searching with coprime planar array, US 11300648, 2022-04-12.
+3. Z. Shi, **H. Zheng**, C. Zhou, J. Chen. Two-dimensional direction-of-arrival estimation method for coprime planar array based on structured coarray tensor processing, US 11408960, 2022-08-09.
+4. J. Chen, **H. Zheng**, Z. Shi, C. Zhou. Spatial spectrum estimation method with enhanced degree-of-freedom based on block sampling tensor construction for coprime planar array, US 11422177, 2022-08-23.
+5. Z. Shi, **H. Zheng**, C. Zhou, J. Chen, Y. Wang. Three-dimensional co-prime cubic array direction-of-arrival estimation method based on a cross-correlation tensor, US 11879986, 2024-01-23.
+6. 史治国, **郑航**, 周成伟, 陈积明, 王勇. 基于互相关张量的三维互质立方阵列波达方向估计方法, ZL 202110065604.4, 2022-02-18.
+7. **郑航**, 周成伟，颜成钢，陈剑，史治国，陈积明. 基于耦合张量分解的 L 型互质阵列波达方向估计方法, ZL 202110781692.8, 2022-03-22.
+8. **郑航**, 周成伟，颜成钢，史治国，王勇，陈积明. 基于结构化虚拟域张量信号处理的互质面阵二维波达方向估计方法, ZL 202010370072.0, 2022-09-20.
+9. **郑航**, 王勇，周成伟，颜成钢，史治国，陈积明. 基于平面互质阵列块采样张量信号构造的自由度增强型空间谱估计方法, ZL 202010370913.8, 2022-10-04.
+10. **郑航**, 周成伟，史治国, 王勇，陈积明. 基于平面互质阵列虚拟域张量空间谱搜索的高分辨精确二维波达方向估计方法, ZL 202010371305.9, 2022-12-27.
+11. **郑航**, 史治国, 陈积明, 颜成钢, 周成伟, 周金芳. 基于最小化准则的电磁矢量互质面阵张量功率谱估计方法, ZL 202011499625.9, 2023-06-27.
+12. 史治国, **郑航**, 陈积明, 颜成钢, 周成伟, 王勇. 基于乘性张量波束扫描的电磁矢量互质面阵多维参数估计方法, ZL 202011490509.0, 2023-06-27.
+13. 史治国, 陈剑锋, 单国锋, **郑航**. 一种自动探测测向无人机的方法, ZL 202010786192.9, 2023-07-07.
 
 
 # 🎖 Honors and Awards
