@@ -8,13 +8,7 @@ redirect_from:
   - /about/
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
+<span class='anchor' id='about-me'></span>
 
 # 📄 Patents
 - **H. Zheng**, C. Zhou, Z. Shi, and J. Chen. Method for estimation direction of arrival of an L-type coprime array based on coupled tensor decomposition, US 12117545, 2024-10-15.
