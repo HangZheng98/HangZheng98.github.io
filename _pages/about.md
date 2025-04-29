@@ -135,7 +135,7 @@ I have published 30+ papers at Top Journals and International Conferences with g
 
 
 # 🎖 Honors and Awards
-- *2025.01*：中国电子教育学会优秀博士学位论文
+- *2025.01*: 中国电子教育学会优秀博士学位论文
 - *2023.11*: Excellent Scientific Papers from China Association for Science and Technology（中国科协优秀科技论文） 
 - *2023.06*: IEEE ICASSP 2023 Top 3% of all accepted papers
 - *2022.09*: ICAUS 2022 Best paper award
