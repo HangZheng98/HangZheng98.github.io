@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='patents'></span>
+
 # 📄 Patents
 - **H. Zheng**, C. Zhou, Z. Shi, and J. Chen. Method for estimation direction of arrival of an L-type coprime array based on coupled tensor decomposition, US 12117545, 2024-10-15.
 - C. Zhou, **H. Zheng**, J. Chen, Z. Shi. High resolution, accurate, two-dimensional direction-of-arrival estimation method based on coarray tensor spatial spectrum searching with coprime planar array, US 11300648, 2022-04-12. 
