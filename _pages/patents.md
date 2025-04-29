@@ -1,9 +1,12 @@
 ---
-layout: archive
+layout: default
 permalink: /patents/
 title: "Patents"
 excerpt: ""
 author_profile: false
+redirect_from: 
+  - /patents/
+  - /patents.html
 ---
 
 
