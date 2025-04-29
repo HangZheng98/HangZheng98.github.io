@@ -129,7 +129,7 @@ I have published 30+ papers at Top Journals and International Conferences with g
 13. 史治国, 陈剑锋, 单国锋, **郑航**. 一种自动探测测向无人机的方法, ZL 202010786192.9, 2023-07-07.
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2025.01*: 中国电子教育学会优秀博士学位论文
 - *2023.11*: Excellent Scientific Papers from China Association for Science and Technology（中国科协优秀科技论文） 
 - *2023.06*: IEEE ICASSP 2023 Top 3% of all accepted papers
