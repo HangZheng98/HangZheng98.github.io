@@ -27,7 +27,7 @@ My research interests include *Array Signal Processing*, *Tensor Signal Processi
 I have published 30+ papers at Top Journals and International Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I have been granted 30+ patents. Also, I serve as an active reviewer for IEEE TSP, IEEE TAES, IEEE SPL, IEEE TWC, etc.
 
 
-# 📖 Educations
+# 🎓 Educations
 - *2019.09 - 2024.06*, **Ph.D. student**, College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China
 - *2022.10 - 2023.10*, **Joint training Ph.D. student**, Department of Acoustics & Signal Processing, Aalto University, Espoo, Finland
 - *2015.09 - 2019.07*, **Bachelor**, College of Transportation Engineering, Tongji University, Shanghai, China
