@@ -21,7 +21,7 @@ redirect_from:
 On June 2024, I received the Ph.D. degree in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE, IEEE Fellow), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I was a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
 
 
-My research interests include *Array Signal Processing*, *Tensor Signal Processing*, and *AI for Signal Processing*. I have been working on fundamental theories of <font color=blue>sub-Nyquist tensor signal processing</font>, <font color=blue>efficient tensor optimization</font>, <font color=blue>resource-efficient tensorized neural networks</font>, and their applications in <font color=blue>DOA Estimation</font>, <font color=blue>Adaptive Beamforming</font>, <font color=blue>ISAC Systems</font>. 
+  My research interests include *Array Signal Processing*, *Tensor Signal Processing*, and *AI for Signal Processing*. I have been working on fundamental theories of *Sub-Nyquist Tensor Signal Processing*, *Tensor-based Optimization*, *Tensorized Neural Networks*, and their applications in *DOA Estimation*, *Adaptive Beamforming*, *ISAC Systems*. 
 
 
 I have published 30+ papers at Top Journals and International Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -35,11 +35,8 @@ I have published 30+ papers at Top Journals and International Conferences with g
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉 Our paper [Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271) is recognized as an <font color=red>ESI Highly Cited Paper</font>.
-- *2024.08*: &nbsp;🎉 Our paper [Deep tensor 2-D DOA estimation for URA](https://ieeexplore.ieee.org/document/10644148) is accepted to *IEEE Transactions on Signal Processing*
 - *2023.11*: &nbsp;🎉 Our paper received the <font color=red>Excellent Scientific Papers</font> from *China Association for Science and Technology*
-- *2023.08*: &nbsp;🎉 Our paper [Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921) is accepted to *IEEE Transactions on Signal Processing*
 - *2023.06*: &nbsp;🎉 Our paper [Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10095288) is recognized as the <font color=red>Top 3% paper of all accepted papers</font> at *IEEE ICASSP 2023*
-- *2023.03*: &nbsp;🎉 Our papers [Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271) and [Coarray tensor completion for DOA estimation](https://ieeexplore.ieee.org/document/10087326) are respectively accepted to *IEEE Transactions on Signal Processing* and *IEEE Transactions on Aerospace and Electronic Systems*
 
   
 # 📝 Publications 
@@ -76,45 +73,44 @@ I have published 30+ papers at Top Journals and International Conferences with g
 
 ## **中文期刊论文**
 
-- **郑航**, 史治国, 王勇, 周成伟, "[面向结构化稀疏感知的张量阵列信号处理](https://www.ejournal.org.cn/CN/10.12263/DZXB.20240504)," 《电子学报》, 2025.
-  
-- **郑航**, 周成伟, 王勇, 史治国, "[EMVS互质面阵张量波束成形](https://signal.ejournal.org.cn/cn/article/doi/10.16798/j.issn.1003-0530.2024.02.003),"《信号处理》, 40(2): 250-262, 2024.
+1. **郑航**, 史治国, 王勇, 周成伟, "[面向结构化稀疏感知的张量阵列信号处理](https://www.ejournal.org.cn/CN/10.12263/DZXB.20240504)," 《电子学报》, 2025.
 
-- 周成伟, **郑航**, 顾宇杰, 王勇, 史治国, "[互质阵列信号处理研究进展：波达方向估计与自适应波束成形](https://radars.ac.cn/cn/article/doi/10.12000/JR19068)," 《雷达学报》, 8(5): 558-577, 2019.
+2. **郑航**, 周成伟, 王勇, 史治国, "[EMVS互质面阵张量波束成形](https://signal.ejournal.org.cn/cn/article/doi/10.16798/j.issn.1003-0530.2024.02.003),"《信号处理》, 40(2): 250-262, 2024.
 
+3. 周成伟, **郑航**, 顾宇杰, 王勇, 史治国, "[互质阵列信号处理研究进展：波达方向估计与自适应波束成形](https://radars.ac.cn/cn/article/doi/10.12000/JR19068)," 《雷达学报》, 8(5): 558-577, 2019.
 
 
 ## **Conference papers**
 
--  **H. Zheng**, C. Zhou, S. A. Vorobyov, and Z. Shi, "[Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/document/10095288)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Rhodes Island, Greece, June 2023. <font color=red>(Top 3% paper of all accepted papers)</font>
+1. **H. Zheng**, C. Zhou, S. A. Vorobyov, and Z. Shi, "[Tensorized neural layer decomposition for 2-D DOA estimation](https://ieeexplore.ieee.org/document/10095288)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Rhodes Island, Greece, June 2023. <font color=red>(Top 3% paper of all accepted papers)</font>
 
--  **H. Zheng**, C. Zhou, A. L. F. de Almeida, Y. Gu, and Z. Shi, "[DOA estimation via coarray tensor completion with missing slices](https://ieeexplore.ieee.org/document/9747012)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Singapore, May 2022, pp. 5053-5057.
+2. **H. Zheng**, C. Zhou, A. L. F. de Almeida, Y. Gu, and Z. Shi, "[DOA estimation via coarray tensor completion with missing slices](https://ieeexplore.ieee.org/document/9747012)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Singapore, May 2022, pp. 5053-5057.
 
--  **H. Zheng**, C. Zhou, Z. Shi, and C. Yan, "[Joint coprime weights optimization for sub-Nyquist tensor beamforming](https://ieeexplore.ieee.org/document/9764278)," in Proc. IEEE Radar Conf., New York, USA, Mar. 2022, pp. 1-6.
-  
-- **H. Zheng**, C. Zhou, Y. Gu, and Z. Shi, "[Two-dimensional DOA estimation for coprime planar array: A coarray tensor-based solution](https://ieeexplore.ieee.org/document/9053860)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Barcelona, Spain, May 2020, pp. 4562-4566.
+3. **H. Zheng**, C. Zhou, Z. Shi, and C. Yan, "[Joint coprime weights optimization for sub-Nyquist tensor beamforming](https://ieeexplore.ieee.org/document/9764278)," in Proc. IEEE Radar Conf., New York, USA, Mar. 2022, pp. 1-6.
 
--  **H. Zheng**, C. Zhou, Y. Wang, J. Zhou, and Z. Shi, "[Sample fourth-order cumulant tensor denoising for DOA estimation with coprime L-shaped array](https://ieeexplore.ieee.org/document/9723340)," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2021, pp. 1668-1672.
+4. **H. Zheng**, C. Zhou, Y. Gu, and Z. Shi, "[Two-dimensional DOA estimation for coprime planar array: A coarray tensor-based solution](https://ieeexplore.ieee.org/document/9053860)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Barcelona, Spain, May 2020, pp. 4562-4566.
 
-- **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "[2-D DOA estimation for coprime cubic array: A cross-correlation tensor perspective](https://ieeexplore.ieee.org/document/9391380)," in Proc. Int. Symp. Antennas & Propag. (ISAP), Osaka, Japan, Jan. 2021, pp. 447-448. <font color=red>(Best Paper Award)</font>
+5. **H. Zheng**, C. Zhou, Y. Wang, J. Zhou, and Z. Shi, "[Sample fourth-order cumulant tensor denoising for DOA estimation with coprime L-shaped array](https://ieeexplore.ieee.org/document/9723340)," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2021, pp. 1668-1672.
 
-- Y. Wang, **H. Zheng**, C. Zhou, C. Yan, and Z. Shi, "[Joint DOD and DOA estimation via coupled CPD with sparse MIMO radar for IIoT](https://ieeexplore.ieee.org/document/10028145)," in Proc. CIE Int. Conf. Radar, Haikou, China, Dec. 2021, pp. 1566-1570.
+6. **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "[2-D DOA estimation for coprime cubic array: A cross-correlation tensor perspective](https://ieeexplore.ieee.org/document/9391380)," in Proc. Int. Symp. Antennas & Propag. (ISAP), Osaka, Japan, Jan. 2021, pp. 447-448. <font color=red>(Best Paper Award)</font>
 
-- F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "[Fiber-missing tensor completion for DOA estimation with sensor failure](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_319)," in Proc. Int. Conf. Autonomous Unmanned Systems, Xian, China, Sep. 2022, pp. 3457-3466. <font color=red>(Best Paper Award)</font>
+7. Y. Wang, **H. Zheng**, C. Zhou, C. Yan, and Z. Shi, "[Joint DOD and DOA estimation via coupled CPD with sparse MIMO radar for IIoT](https://ieeexplore.ieee.org/document/10028145)," in Proc. CIE Int. Conf. Radar, Haikou, China, Dec. 2021, pp. 1566-1570.
 
-- L. Lin, Z. Zhang, **H. Zheng**, C. Zhou, and Z. Shi, "[DOA estimation for joint sensing and communication with nonorthogonal waveform](https://ieeexplore.ieee.org/document/10052043)," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2022, pp. 298-302.
+8. F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "[Fiber-missing tensor completion for DOA estimation with sensor failure](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_319)," in Proc. Int. Conf. Autonomous Unmanned Systems, Xian, China, Sep. 2022, pp. 3457-3466. <font color=red>(Best Paper Award)</font>
 
-- L. Lin, **H. Zheng**, C. Zhou, and Z. Shi, "[Channel covariance matrix construction for DOA estimation with limited communication symbols](https://ieeexplore.ieee.org/document/10149637)," in Proc. IEEE Radar Conf., TX, USA, May 2023, pp. 1-5.
+9. L. Lin, Z. Zhang, **H. Zheng**, C. Zhou, and Z. Shi, "[DOA estimation for joint sensing and communication with nonorthogonal waveform](https://ieeexplore.ieee.org/document/10052043)," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2022, pp. 298-302.
 
-- C. He, **H. Zheng**, B. Li, C. Zhou, and Z. Shi, "[DOA estimation via meta-learning under array sensor failures](https://ieeexplore.ieee.org/document/10371100)," in Proc. Int. Conf. Radar, Sydney, Australia, Nov. 2023.
+10. L. Lin, **H. Zheng**, C. Zhou, and Z. Shi, "[Channel covariance matrix construction for DOA estimation with limited communication symbols](https://ieeexplore.ieee.org/document/10149637)," in Proc. IEEE Radar Conf., TX, USA, May 2023, pp. 1-5.
 
-- F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "[Tensorial Hankel reconstruction for coherent DOA estimation with sensor failure](https://ieeexplore.ieee.org/abstract/document/10419453)," in Proc. IEEE Int. Conf. Commun. Technol. (ICCT), Wuxi, China, Oct. 2023, pp. 221-225.
+11. C. He, **H. Zheng**, B. Li, C. Zhou, and Z. Shi, "[DOA estimation via meta-learning under array sensor failures](https://ieeexplore.ieee.org/document/10371100)," in Proc. Int. Conf. Radar, Sydney, Australia, Nov. 2023.
 
-- L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "[Sensing-aided communication channel estimation with tensor-based moving target localization](https://ieeexplore.ieee.org/abstract/document/10448481)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, pp. 8606-8610.
+12. F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "[Tensorial Hankel reconstruction for coherent DOA estimation with sensor failure](https://ieeexplore.ieee.org/abstract/document/10419453)," in Proc. IEEE Int. Conf. Commun. Technol. (ICCT), Wuxi, China, Oct. 2023, pp. 221-225.
 
-- Y. Ren, **H. Zheng** and Z. Shi, "[Tensor-Based Subspace Fusion for Direct Position Determination](https://ieeexplore.ieee.org/abstract/document/10681969)," in Proc. IEEE/CIC International Conference on Communications in China (ICCC), Hangzhou, China, 2024, pp. 208-212.
+13. L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "[Sensing-aided communication channel estimation with tensor-based moving target localization](https://ieeexplore.ieee.org/abstract/document/10448481)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, pp. 8606-8610.
 
-- F. Qian, **H. Zheng**, C. Zhou and Z. Shi, "[Spatial Sectorized Neural Network for 2-D DOA Estimation in the Full Azimuth](https://ieeexplore.ieee.org/abstract/document/10715211)," in Proc. European Signal Processing Conference (EUSIPCO), Lyon, France, 2024, pp. 1147-1151.
+14. Y. Ren, **H. Zheng** and Z. Shi, "[Tensor-Based Subspace Fusion for Direct Position Determination](https://ieeexplore.ieee.org/abstract/document/10681969)," in Proc. IEEE/CIC International Conference on Communications in China (ICCC), Hangzhou, China, 2024, pp. 208-212.
+
+15. F. Qian, **H. Zheng**, C. Zhou and Z. Shi, "[Spatial Sectorized Neural Network for 2-D DOA Estimation in the Full Azimuth](https://ieeexplore.ieee.org/abstract/document/10715211)," in Proc. European Signal Processing Conference (EUSIPCO), Lyon, France, 2024, pp. 1147-1151.
 
 
 # 📄 Patents
