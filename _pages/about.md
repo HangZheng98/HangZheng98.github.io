@@ -18,19 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-On June 2024, I received the Ph.D. degree in the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China, where I am jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE, IEEE Fellow), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Prof. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I was a joint training Ph.D. student in the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Espoo, Finland, where I am supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
+ graduate from the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), China on June 2024, with a Ph.D. degree, jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE, IEEE Fellow), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Dr. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I visited the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Finland, as a joint training Ph.D. student, supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
 
 
-My research interests include *Array Signal Processing*, *Tensor Signal Processing*, and *AI for Signal Processing*. I have been working on fundamental theories of *Sub-Nyquist Tensor Signal Processing*, *Tensor-based Optimization*, *Tensorized Neural Networks*, and their applications in *DOA Estimation*, *Adaptive Beamforming*, *ISAC Systems*. 
+My research interests include *Array Signal Processing*, *Tensor Signal Processing*, *AI for Signal Processing* and *ISAC*. I have been working on fundamental theories of *Sub-Nyquist Tensor Signal Processing*, *Tensor-based Optimization*, *Tensorized Neural Networks*, and their applications in *DOA Estimation*, *Adaptive Beamforming*, *ISAC Systems*. 
 
 
-I have published 30+ papers at Top Journals and International Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and have been granted 30+ patents. I serve as an active reviewer for IEEE TSP, IEEE TAES, IEEE SPL, IEEE TWC, etc.
-
-
-# 🎓 Educations
-- *2019.09 - 2024.06*, **Ph.D. student**, College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China
-- *2022.10 - 2023.10*, **Joint training Ph.D. student**, Department of Acoustics & Signal Processing, Aalto University, Espoo, Finland
-- *2015.09 - 2019.07*, **Bachelor**, College of Transportation Engineering, Tongji University, Shanghai, China
+I have published 30+ papers at Top Journals and International Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and have been granted 30+ patents. I am an active reviewer for IEEE TSP, IEEE TAES, IEEE SPL, IEEE TWC, etc.
 
 
 # 🔥 News
@@ -134,7 +128,8 @@ I have published 30+ papers at Top Journals and International Conferences with g
 
 
 # 🏆 Honors and Awards
-- *2025.01*: 中国电子教育学会优秀博士学位论文
+- *2025.01*: Excellent Doctoral Dissertation Award of China Education Society of Electronics（中国电子教育学会优秀博士学位论文）
+- *2024.06*: Outstanding Graduate of Zhejiang Province（浙江省优秀毕业生）
 - *2023.11*: Excellent Scientific Papers from China Association for Science and Technology（中国科协优秀科技论文） 
 - *2023.06*: IEEE ICASSP 2023 Top 3% of all accepted papers
 - *2022.09*: ICAUS 2022 Best paper award
@@ -146,6 +141,17 @@ I have published 30+ papers at Top Journals and International Conferences with g
 - "创青春"上海市大学生创业大赛创业计划类金奖
 - "挑战杯"全国大学生创业大赛银奖
 - "互联网+"大学生创新创业大赛上海市铜奖
+
+
+# 🎓 Educations
+- *2019.09 - 2024.06*, **Ph.D. student**, College of Information Science & Electronic Engineering, Zhejiang University, Hangzhou, China
+- *2022.10 - 2023.10*, **Joint training Ph.D. student**, Department of Acoustics & Signal Processing, Aalto University, Espoo, Finland
+- *2015.09 - 2019.07*, **Bachelor**, College of Transportation Engineering, Tongji University, Shanghai, China
+
+
+# 🏢 Work Experience
+- *2025.07 - now*, **Senior Engineer**, Huawei, Beijing, China
+- *2018.09 - 2018.11*, **FAE Engineer** (Internship), Horizon Robotics, Shanghai, China
 
 
 # 📌 Research Highlights
@@ -182,3 +188,5 @@ The algorithm for beamforming design and results are presented in our papers pub
 - Highly compress the parameters in tensorized neural layers, and *<font color=blue>accelerate the training speed</font>* of the tensorized neural network
 
 This work was presented at IEEE ICASSP 2023, and recognized as the Top 3% paper. The extended work is published on IEEE TSP.
+
+
