@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
- graduate from the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), China on June 2024, with a Ph.D. degree, jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE, IEEE Fellow), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Dr. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I visited the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Finland, as a joint training Ph.D. student, supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
+I graduate from the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), China on June 2024, with a Ph.D. degree, jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE, IEEE Fellow), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Dr. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I visited the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Finland, as a joint training Ph.D. student, supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
 
 
-My research interests include *Array Signal Processing*, *Tensor Signal Processing*, *AI for Signal Processing* and *ISAC*. I have been working on fundamental theories of *Sub-Nyquist Tensor Signal Processing*, *Tensor-based Optimization*, *Tensorized Neural Networks*, and their applications in *DOA Estimation*, *Adaptive Beamforming*, *ISAC Systems*. 
+My research interests include *Array Signal Processing*, *Tensor Signal Processing*, *AI for Signal Processing* and *Integrated Sensing and Communication (ISAC)*. I have been working on fundamental theories of *Sub-Nyquist Tensor Signal Processing*, *Tensor-based Optimization*, *Tensorized Neural Networks*, and their applications in *Direction-of-Arrival (DOA) Estimation*, *Adaptive Beamforming*, *Target Localization*, *Target Imaging*. 
 
 
 I have published 30+ papers at Top Journals and International Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and have been granted 30+ patents. I am an active reviewer for IEEE TSP, IEEE TAES, IEEE SPL, IEEE TWC, etc.
@@ -66,7 +66,7 @@ I have published 30+ papers at Top Journals and International Conferences with g
 
 ## 📖 **Book Chapter**
 
-1. **H. Zheng**, Z. Shi, S.A. Vorobyov, C. Zhou, and Y. Gu, "Tensorized neural networks in array signal processing," in Machine Learning for Radar Signal Processing, Eds. Y. Gu, Y.D. Zhang, IEEE-Wiley Press, 2025, submitted.
+1. **H. Zheng**, Z. Shi, S. A. Vorobyov, C. Zhou, and Y. Gu, "Tensorized neural networks in array signal processing," Machine Learning for Radar Signal Processing, Eds. Y. Gu, Y.D. Zhang, IEEE-Wiley Press, 2025, Submitted.
 
 
 ## 📑 **Journal Papers in Chinese**
@@ -86,17 +86,17 @@ I have published 30+ papers at Top Journals and International Conferences with g
 
 3. **H. Zheng**, C. Zhou, Z. Shi, and C. Yan, "[Joint coprime weights optimization for sub-Nyquist tensor beamforming](https://ieeexplore.ieee.org/document/9764278)," in Proc. IEEE Radar Conf., New York, USA, Mar. 2022, pp. 1-6.
 
-4. **H. Zheng**, C. Zhou, Y. Gu, and Z. Shi, "[Two-dimensional DOA estimation for coprime planar array: A coarray tensor-based solution](https://ieeexplore.ieee.org/document/9053860)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Barcelona, Spain, May 2020, pp. 4562-4566.
+4. **H. Zheng**, C. Zhou, Y. Wang, J. Zhou, and Z. Shi, "[Sample fourth-order cumulant tensor denoising for DOA estimation with coprime L-shaped array](https://ieeexplore.ieee.org/document/9723340)," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2021, pp. 1668-1672.
 
-5. **H. Zheng**, C. Zhou, Y. Wang, J. Zhou, and Z. Shi, "[Sample fourth-order cumulant tensor denoising for DOA estimation with coprime L-shaped array](https://ieeexplore.ieee.org/document/9723340)," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2021, pp. 1668-1672.
+5. **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "[2-D DOA estimation for coprime cubic array: A cross-correlation tensor perspective](https://ieeexplore.ieee.org/document/9391380)," in Proc. Int. Symp. Antennas & Propag. (ISAP), Osaka, Japan, Jan. 2021, pp. 447-448. <font color=red>(Best Paper Award)</font>
 
-6. **H. Zheng**, C. Zhou, Y. Wang, and Z. Shi, "[2-D DOA estimation for coprime cubic array: A cross-correlation tensor perspective](https://ieeexplore.ieee.org/document/9391380)," in Proc. Int. Symp. Antennas & Propag. (ISAP), Osaka, Japan, Jan. 2021, pp. 447-448. <font color=red>(Best Paper Award)</font>
+6. **H. Zheng**, C. Zhou, Y. Gu, and Z. Shi, "[Two-dimensional DOA estimation for coprime planar array: A coarray tensor-based solution](https://ieeexplore.ieee.org/document/9053860)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Barcelona, Spain, May 2020, pp. 4562-4566.
 
-7. Y. Wang, **H. Zheng**, C. Zhou, C. Yan, and Z. Shi, "[Joint DOD and DOA estimation via coupled CPD with sparse MIMO radar for IIoT](https://ieeexplore.ieee.org/document/10028145)," in Proc. CIE Int. Conf. Radar, Haikou, China, Dec. 2021, pp. 1566-1570.
+7. L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "[Sensing-aided communication channel estimation with tensor-based moving target localization](https://ieeexplore.ieee.org/abstract/document/10448481)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, pp. 8606-8610.
 
-8. F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "[Fiber-missing tensor completion for DOA estimation with sensor failure](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_319)," in Proc. Int. Conf. Autonomous Unmanned Systems, Xian, China, Sep. 2022, pp. 3457-3466. <font color=red>(Best Paper Award)</font>
+8. Y. Ren, **H. Zheng** and Z. Shi, "[Tensor-Based Subspace Fusion for Direct Position Determination](https://ieeexplore.ieee.org/abstract/document/10681969)," in Proc. IEEE/CIC International Conference on Communications in China (ICCC), Hangzhou, China, 2024, pp. 208-212.
 
-9. L. Lin, Z. Zhang, **H. Zheng**, C. Zhou, and Z. Shi, "[DOA estimation for joint sensing and communication with nonorthogonal waveform](https://ieeexplore.ieee.org/document/10052043)," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2022, pp. 298-302.
+9. F. Qian, **H. Zheng**, C. Zhou and Z. Shi, "[Spatial Sectorized Neural Network for 2-D DOA Estimation in the Full Azimuth](https://ieeexplore.ieee.org/abstract/document/10715211)," in Proc. European Signal Processing Conference (EUSIPCO), Lyon, France, 2024, pp. 1147-1151.
 
 10. L. Lin, **H. Zheng**, C. Zhou, and Z. Shi, "[Channel covariance matrix construction for DOA estimation with limited communication symbols](https://ieeexplore.ieee.org/document/10149637)," in Proc. IEEE Radar Conf., TX, USA, May 2023, pp. 1-5.
 
@@ -104,11 +104,11 @@ I have published 30+ papers at Top Journals and International Conferences with g
 
 12. F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "[Tensorial Hankel reconstruction for coherent DOA estimation with sensor failure](https://ieeexplore.ieee.org/abstract/document/10419453)," in Proc. IEEE Int. Conf. Commun. Technol. (ICCT), Wuxi, China, Oct. 2023, pp. 221-225.
 
-13. L. Lin, **H. Zheng**, S. A. Vorobyov, C. Zhou, and Z. Shi, "[Sensing-aided communication channel estimation with tensor-based moving target localization](https://ieeexplore.ieee.org/abstract/document/10448481)," in Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP), Seoul, Korea, Apr. 2024, pp. 8606-8610.
+13. F. Cheng, **H. Zheng**, Z. Shi, and C. Zhou, "[Fiber-missing tensor completion for DOA estimation with sensor failure](https://link.springer.com/chapter/10.1007/978-981-99-0479-2_319)," in Proc. Int. Conf. Autonomous Unmanned Systems, Xian, China, Sep. 2022, pp. 3457-3466. <font color=red>(Best Paper Award)</font>
 
-14. Y. Ren, **H. Zheng** and Z. Shi, "[Tensor-Based Subspace Fusion for Direct Position Determination](https://ieeexplore.ieee.org/abstract/document/10681969)," in Proc. IEEE/CIC International Conference on Communications in China (ICCC), Hangzhou, China, 2024, pp. 208-212.
-
-15. F. Qian, **H. Zheng**, C. Zhou and Z. Shi, "[Spatial Sectorized Neural Network for 2-D DOA Estimation in the Full Azimuth](https://ieeexplore.ieee.org/abstract/document/10715211)," in Proc. European Signal Processing Conference (EUSIPCO), Lyon, France, 2024, pp. 1147-1151.
+14. L. Lin, Z. Zhang, **H. Zheng**, C. Zhou, and Z. Shi, "[DOA estimation for joint sensing and communication with nonorthogonal waveform](https://ieeexplore.ieee.org/document/10052043)," in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, Nov. 2022, pp. 298-302.
+    
+15. Y. Wang, **H. Zheng**, C. Zhou, C. Yan, and Z. Shi, "[Joint DOD and DOA estimation via coupled CPD with sparse MIMO radar for IIoT](https://ieeexplore.ieee.org/document/10028145)," in Proc. CIE Int. Conf. Radar, Haikou, China, Dec. 2021, pp. 1566-1570.
 
 
 # 📄 Patents
@@ -150,13 +150,13 @@ I have published 30+ papers at Top Journals and International Conferences with g
 
 
 # 🏢 Work Experience
-- *2025.07 - now*, **Senior Engineer**, Huawei, Beijing, China
+- *2024.07 - now*, **Senior Engineer**, Huawei, Beijing, China
 - *2018.09 - 2018.11*, **FAE Engineer** (Internship), Horizon Robotics, Shanghai, China
 
 
 # 📌 Research Highlights
 
-## Sub-Nyquist tensor DOA estimation
+## Sub-Nyquist Tensor-based DOA Estimation
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DOA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -164,11 +164,11 @@ I have published 30+ papers at Top Journals and International Conferences with g
 - Optimize the uniqueness condition of co-array tensor decomposition, and identify multiple sources that exceed the number of physical array sensors
 - Complete the coarray tensor with missing slices to exploit the full co-array information
 
-Analytical and numerical results are presented in our papers published in IEEE TSP, IEEE TAES, and IEEE ICASSP.
+Analytical and numerical results are presented in our papers published on IEEE TSP and IEEE TAES.
 </div>
 </div>
 
-## Sub-Nyquist tensor beamforming
+## Sub-Nyquist Tensor-based Beamforming
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Beamforming.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -176,17 +176,17 @@ Analytical and numerical results are presented in our papers published in IEEE T
 - Enhance mainlobe while suppressing sidelobes in the beampattern by solving tensor beamformer weight optimization problems
 - Improve output signal-to-interference-plus-noise ratio (SINR) for *<font color=blue>strong anti-interference</font>*
 
-The algorithm for beamforming design and results are presented in our papers published on IEEE TSP and Radarconf.
+The algorithm for beamforming design and results are presented in our papers published on IEEE TSP.
 </div>
 </div>
 
-## Tensorized neural networks for signal processing
+## Tensorized Neural Networks in Array Signal Processing
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Design tensorized neural networks to efficiently learn inherent features from multi-dimensional array signals, leading to *<font color=blue>robust performance in non-ideal situations</font>* such as low signal-to-noise (SNR) ratio and limited snapshots
-- Highly compress the parameters in tensorized neural layers, and *<font color=blue>accelerate the training speed</font>* of the tensorized neural network
+- Design tensorized neural networks to efficiently learn inherent features from multi-dimensional array signals, leading to *<font color=blue>robust performance in non-ideal situations</font>* such as low signal-to-noise (SNR) ratio and limited number of snapshots
+- Compress the parameters in tensorized neural layers, and *<font color=blue>accelerate the training speed</font>* of the tensorized neural network
 
-This work was presented at IEEE ICASSP 2023, and recognized as the Top 3% paper. The extended work is published on IEEE TSP.
+This work was presented at IEEE ICASSP 2023, and recognized as the Top 3% paper. The extended work is published on IEEE SPL and IEEE TSP.
 
 
