@@ -21,10 +21,10 @@ redirect_from:
 I graduate from the College of Information Science & Electronic Engineering (ISEE) at [Zhejiang University](https://www.zju.edu.cn/english/), China on June 2024, with a Ph.D. degree, jointly advised by Prof. [Zhiguo Shi](https://person.zju.edu.cn/shizg) (Vice dean of the College of ISEE, IEEE Fellow), Prof. Quan Yu (Academician of the Chinese Academy of Engineering), and Dr. Chengwei Zhou. From Oct. 2022 to Oct. 2023, I visited the Department of Acoustics & Signal Processing at [Aalto University](https://www.aalto.fi/en), Finland, as a joint training Ph.D. student, supervised by Prof. [Sergiy Vorobyov](https://users.aalto.fi/~vorobys1/) (IEEE Fellow). 
 
 
-My research interests include *Array Signal Processing*, *Tensor Signal Processing*, *AI for Signal Processing* and *Integrated Sensing and Communication (ISAC)*. I have been working on fundamental theories of *Sub-Nyquist Tensor Signal Processing*, *Tensor-based Optimization*, *Tensorized Neural Networks*, and their applications in *Direction-of-Arrival (DOA) Estimation*, *Adaptive Beamforming*, *Target Localization*, *Target Imaging*. 
+My research interests include *Array Signal Processing*, *Tensor Signal Processing*, *AI for Signal Processing* and *Integrated Sensing and Communication (ISAC)*. I have been working on fundamental theories of *Sub-Nyquist Tensor Signal Processing*, *Tensor-based Optimization*, *Tensorized Neural Networks*, and their applications in *Direction-of-Arrival (DOA) Estimation*, *Adaptive Beamforming*, *Target Localization*. 
 
 
-I have published 30+ papers at Top Journals and International Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and have been granted 30+ patents. I am an active reviewer for IEEE TSP, IEEE TAES, IEEE SPL, IEEE TWC, etc.
+I have published 30+ papers at Top International Journals and Conferences with google citations <a href='https://scholar.google.com/citations?user=V97Yn3MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and have been granted 30+ patents. I am an active reviewer for IEEE TSP, IEEE TAES, IEEE SPL, IEEE TWC, etc.
 
 
 # 🔥 News
