@@ -164,7 +164,10 @@ I have published 30+ papers at Top International Journals and Conferences with g
 - Optimize the uniqueness condition of co-array tensor decomposition, and identify multiple sources that exceed the number of physical array sensors
 - Complete the coarray tensor with missing slices to exploit the full co-array information
 
-Analytical and numerical results are presented in our papers published on IEEE TSP and IEEE TAES.
+[Coarray tensor direction-of-arrival estimation](https://ieeexplore.ieee.org/document/10078271)
+
+[Coarray tensor completion for DOA estimation](https://ieeexplore.ieee.org/document/10087326)
+
 </div>
 </div>
 
