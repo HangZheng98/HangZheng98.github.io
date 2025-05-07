@@ -179,7 +179,8 @@ I have published 30+ papers at Top International Journals and Conferences with g
 - Enhance mainlobe while suppressing sidelobes in the beampattern by solving tensor beamformer weight optimization problems
 - Improve output signal-to-interference-plus-noise ratio (SINR) for *<font color=blue>strong anti-interference</font>*
 
-The algorithm for beamforming design and results are presented in our papers published on IEEE TSP.
+[Sub-Nyquist tensor beamformer: A coprimality constrained design](https://ieeexplore.ieee.org/abstract/document/10232921)
+
 </div>
 </div>
 
@@ -190,6 +191,11 @@ The algorithm for beamforming design and results are presented in our papers pub
 - Design tensorized neural networks to efficiently learn inherent features from multi-dimensional array signals, leading to *<font color=blue>robust performance in non-ideal situations</font>* such as low signal-to-noise (SNR) ratio and limited number of snapshots
 - Compress the parameters in tensorized neural layers, and *<font color=blue>accelerate the training speed</font>* of the tensorized neural network
 
-This work was presented at IEEE ICASSP 2023, and recognized as the Top 3% paper. The extended work is published on IEEE SPL and IEEE TSP.
+[Deep tensor 2-D DOA estimation for URA](https://ieeexplore.ieee.org/document/10644148)
+
+[Decomposed CNN for sub-Nyquist tensor-based 2-D DOA estimation](https://ieeexplore.ieee.org/abstract/document/10144637)
+
+</div>
+</div>
 
 
