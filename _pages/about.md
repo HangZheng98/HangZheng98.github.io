@@ -50,19 +50,22 @@ I have published 30+ papers at Top International Journals and Conferences with g
 
 7. **H. Zheng**, C. Zhou, Z. Shi, and Y. Gu, "[Structured tensor reconstruction for coherent DOA estimation](https://ieeexplore.ieee.org/abstract/document/9829909)," IEEE Signal Process. Lett., vol. 29, pp. 1634-1638, 2022.
 
-8. **H. Zheng**, Z. Shi, C. Zhou, M. Haardt, and J. Chen, "[Coupled coarray tensor CPD for DOA estimation with coprime L-shaped array](https://ieeexplore.ieee.org/document/9495264)," IEEE Signal Process. Lett., vol. 28, pp. 1545-1549, July 2021.
+8. **H. Zheng**, Z. Shi, C. Zhou, M. Haardt, and J. Chen, "Coupled coarray tensor CPD for DOA estimation with coprime L-shaped array," IEEE Signal Process. Lett., vol. 28, pp. 1545-1549, July 2021.
 
-9. L. Lin, J. Tong, H. Lin, **H. Zheng** and Z. Shi, "[Joint Target Localization and Channel Estimation for ODDM-ISAC Systems](https://ieeexplore.ieee.org/abstract/document/10930806)," IEEE Signal Processing Letters, 2025.
+9. L. Lin, C. Zhou, **H. Zheng**, Z. Shi, S. A. Vorobyov, and Robert W. Heath Jr., "[Sensing-Aided Precoding with High-Dynamic
+Moving Scatterers](https://ieeexplore.ieee.org/abstract/document/10930806)," IEEE Trans. Signal Process., 2025, Submitted.
 
-10. Y. Yue, **H. Zheng**, Z. Shi and G. Liao, "[Two-stage Reconstruction for Co-array 2D DOA Estimation of Mixed Circular and Noncircular Signals](https://ieeexplore.ieee.org/abstract/document/10878439)," IEEE Transactions on Vehicular Technology, 2025.
+10. L. Lin, J. Tong, H. Lin, **H. Zheng** and Z. Shi, "[Joint Target Localization and Channel Estimation for ODDM-ISAC Systems](https://ieeexplore.ieee.org/abstract/document/10930806)," IEEE Signal Process. Lett., vol. 32, pp. 1525-1529, 2025.
 
-11. Y. Fan, Y. Wang, **H. Zheng** and Z. Shi, "[Video2mmPoint: Synthesizing mmWave Point Cloud Data from Videos for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10745215)," IEEE Sensors Journal, 2024.
+11. Y. Yue, **H. Zheng**, Z. Shi and G. Liao, "[Two-stage Reconstruction for Co-array 2D DOA Estimation of Mixed Circular and Noncircular Signals](https://ieeexplore.ieee.org/abstract/document/10878439)," IEEE Transactions on Vehicular Technology, 2025.
 
-12. F. Xu, **H. Zheng**, and S. A. Vorobyov, "[Tensor-based 2D DOA estimation for L-shaped nested array](https://ieeexplore.ieee.org/document/10292874)," IEEE Trans. Aerosp. Electron. Syst., vol. 60, no. 1, pp. 604-618, 2024.
+12. Y. Fan, Y. Wang, **H. Zheng** and Z. Shi, "[Video2mmPoint: Synthesizing mmWave Point Cloud Data from Videos for Gait Recognition](https://ieeexplore.ieee.org/abstract/document/10745215),"  IEEE Sensors J., vol. 25, no. 1, pp. 773-782, 2025.
 
-13. L. Lin, **H. Zheng**, C. Zhou, S. He, and Z. Shi, "[Nonorthogonal waveform assisted DOA estimation for joint MIMO sensing and communication](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-023-00976-6)," EURASIP J. Adv. Signal Process., vol. 2023, no. 1, Art. no. 22, Feb. 2023.
+13. F. Xu, **H. Zheng**, and S. A. Vorobyov, "[Tensor-based 2D DOA estimation for L-shaped nested array](https://ieeexplore.ieee.org/document/10292874)," IEEE Trans. Aerosp. Electron. Syst., vol. 60, no. 1, pp. 604-618, 2024.
 
-14. B. Li, F. Cheng, **H. Zheng** \*, Z. Shi, and C. Zhou, "[Structural-missing tensor completion for robust DOA estimation with sensor failure](https://www.mdpi.com/2076-3417/13/23/12740)," Appl. Sci., vol. 13, no. 23, Art. no. 12740, 2023. (\*corresponding author)
+14. L. Lin, **H. Zheng**, C. Zhou, S. He, and Z. Shi, "[Nonorthogonal waveform assisted DOA estimation for joint MIMO sensing and communication](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-023-00976-6)," EURASIP J. Adv. Signal Process., vol. 2023, no. 1, Art. no. 22, Feb. 2023.
+
+15. B. Li, F. Cheng, **H. Zheng** \*, Z. Shi, and C. Zhou, "[Structural-missing tensor completion for robust DOA estimation with sensor failure](https://www.mdpi.com/2076-3417/13/23/12740)," Appl. Sci., vol. 13, no. 23, Art. no. 12740, 2023. (\*corresponding author)
 
 ## 📖 **Book Chapter**
 
