@@ -52,8 +52,7 @@ I have published 30+ papers at Top International Journals and Conferences with g
 
 8. **H. Zheng**, Z. Shi, C. Zhou, M. Haardt, and J. Chen, "[Coupled coarray tensor CPD for DOA estimation with coprime L-shaped array](https://ieeexplore.ieee.org/document/9495264)," IEEE Signal Process. Lett., vol. 28, pp. 1545-1549, July 2021.
 
-9. L. Lin, C. Zhou, **H. Zheng**, Z. Shi, S. A. Vorobyov, and Robert W. Heath Jr., "Sensing-Aided Precoding with High-Dynamic
-Moving Scatterers," IEEE Trans. Signal Process., 2025, Submitted.
+9. L. Lin, C. Zhou, **H. Zheng**, Z. Shi, S. A. Vorobyov, and Robert W. Heath Jr., "[Sensing-Aided Precoding with High-Dynamic Moving Scatterers](https://ieeexplore.ieee.org/abstract/document/11075598)," IEEE Trans. Signal Process., vol. 73, pp. 3061-3078, 2025.
 
 10. L. Lin, J. Tong, H. Lin, **H. Zheng** and Z. Shi, "[Joint Target Localization and Channel Estimation for ODDM-ISAC Systems](https://ieeexplore.ieee.org/abstract/document/10930806)," IEEE Signal Process. Lett., vol. 32, pp. 1525-1529, 2025.
 
